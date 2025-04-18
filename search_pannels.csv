@@ -1,0 +1,2640 @@
+COMPONENT,LOINC_NUM
+Semen analysis panel,13361-1
+Hepatitis 1996 panel,24313-9
+TORCH 1996 panel,24314-7
+Cytomegalovirus Ab.IgG & IgM panel,24315-4
+Epstein Barr virus capsid Ab.IgG & IgM panel,24316-2
+Hemogram & platelets WO differential panel,24317-0
+Manual Differential panel,24318-8
+Cardiolipin Ab.IgG & IgM panel,24319-6
+Basic metabolic 1998 panel,24320-4
+Basic metabolic 2000 panel,24321-2
+Comprehensive metabolic 1998 panel,24322-0
+Comprehensive metabolic 2000 panel,24323-8
+Hepatic function 1996 panel,24324-6
+Hepatic function 2000 panel,24325-3
+Electrolytes 1998 panel,24326-1
+Electrolytes 3 panel,24327-9
+Electrolytes 3 panel,24328-7
+Electrolytes 3 panel,24329-5
+Lipid 1996 panel,24331-1
+Alkaline phosphatase isoenz panel,24332-9
+Amylase isoenz 3 panel,24333-7
+Amylase isoenz 7 panel,24334-5
+Creatine kinase panel,24335-2
+Gas panel,24336-0
+Gas panel,24337-8
+Gas panel,24338-6
+Gas panel,24339-4
+Gas panel,24340-2
+Gas & CO panel,24341-0
+Gas & CO panel,24342-8
+Gas & CO panel,24343-6
+Gas & CO panel,24344-4
+Parathyrin.intact & Calcium panel,24346-9
+Parathyrin.mid molecule & Calcium panel,24347-7
+Free T4 & TSH panel,24348-5
+Drugs of abuse 5 panel,24349-3
+Volatiles panel,24350-1
+Protein fractions panel,24351-9
+Protein fractions panel,24352-7
+Glucose tolerance 2H gestational panel,24353-5
+Urinalysis complete panel,24356-8
+Urinalysis macro (dipstick) panel,24357-6
+Hemogram WO Platelets & W Manual Differential panel,24359-2
+Hemoglobin & Hematocrit panel,24360-0
+"Hemogram, platelets & Differential panel",24361-8
+Renal function 2000 panel,24362-6
+Acute hepatitis 2000 panel,24363-4
+Obstetric 1996 panel,24364-2
+Urinalysis microscopic panel,24365-9
+Bacterial susceptibility panel,29576-6
+Bacterial susceptibility panel,49589-5
+Bacterial susceptibility panel,50546-1
+Bacterial susceptibility panel,50545-3
+Fungal susceptibility panel,29577-4
+Viral susceptibility panel,29578-2
+Mycobacterial susceptibility panel,29579-0
+Differential panel,29580-8
+Differential panel,29581-6
+Differential panel,29582-4
+Differential panel,29583-2
+Differential panel,29584-0
+Immunoelectrophoresis panel,29585-7
+Immunoelectrophoresis panel,29586-5
+Toxicology panel,29587-3
+Heavy metals panel,29588-1
+Heavy metals panel,29589-9
+"Hemogram, Platelets, Differential & Reticulocyte panel",34527-2
+PT panel,34528-0
+PT & aPTT panel,34529-8
+ABO & Rh group panel,34530-6
+Blood type & Crossmatch panel,34531-4
+Blood type & Indirect antibody screen panel,34532-2
+12 lead EKG panel,34534-8
+Microalbumin/Creatinine ratio panel,34535-5
+Fluid intake & output panel,34536-3
+Fluid intake & output panel,34537-1
+Protein fractions panel,34539-7
+Phenytoin free & total panel,34540-5
+ACTH stimulation test using IM corticosteroids,34541-3
+ACTH stimulation test using IV corticosteroids,34542-1
+Bilirubin direct & total panel,34543-9
+Complement C3 & C4 panel,34544-7
+carBAMazepine free & total panel,34545-4
+Protein & Glucose panel,34546-2
+Complement profile panel,34547-0
+Sodium & Potassium panel,34548-8
+Follitropin & Lutropin panel,34549-6
+Immunoglobulin panel,34550-4
+Catecholamines 3 panel,34551-2
+Cardiac 2D echo panel,34552-0
+Orthostatic blood pressure panel,34553-8
+Electrolytes 1998 & Venous pH panel,34554-6
+Creatinine renal clearance panel,34555-3
+Cell count panel,34556-1
+Cell count & Differential panel,34557-9
+Cell count panel,34558-7
+Cell count panel,34559-5
+Cell count & Differential panel,34560-3
+Cell count panel,34561-1
+Cell count & Differential panel,34562-9
+Cell count panel,34563-7
+Cell count & Differential panel,34564-5
+"Vital signs, weight & height panel",34565-2
+Cell count & Differential panel,34567-8
+TORCH panel,34665-0
+Heavy metals panel,34667-6
+Immunoelectrophoresis panel,34672-6
+Babesia microti Ab.IgG & IgM panel,34940-7
+Bordetella pertussis Ab.IgG & IgM panel,34941-5
+Borrelia burgdorferi Ab.IgG & IgM panel,34942-3
+Borrelia burgdorferi Ab.IgG & IgM panel,34943-1
+Cytomegalovirus Ab.IgG & IgM panel,34944-9
+Herpes virus 6 Ab.IgG & IgM panel,34945-6
+Herpes virus 6 Ab.IgG & IgM panel,34946-4
+Herpes virus 7 Ab.IgG & IgM panel,34947-2
+Measles virus Ab.IgG & IgM panel,34948-0
+Measles virus Ab.IgG & IgM panel,34949-8
+Parvovirus B19 Ab.IgG & IgM panel,34950-6
+Phosphatidylserine Ab.IgG & IgM panel,34951-4
+Rubella virus Ab.IgG & IgM panel,34952-2
+Rubella virus Ab.IgG & IgM panel,34953-0
+Treponema pallidum Ab.IgG & IgM panel,34954-8
+Western equine encephalitis virus Ab.IgG & IgM panel,34955-5
+Smear morphology panel,34994-4
+Amino acids panel,35083-5
+Fetal lung maturity,35084-3
+Second trimester triple maternal screen panel,35086-8
+Amino acids panel,35087-6
+Glasgow coma scale,35088-4
+History and physical panel,35089-2
+Patient history,35090-0
+Urology testicular ultrasound,35092-6
+Urology urinary tract ultrasound,35093-4
+Blood pressure panel,35094-2
+Body temperature panel,35095-9
+OB ultrasound panel,35096-7
+Pesticide & Insecticide panel,35499-3
+Pesticide & Insecticide panel,35500-8
+Pesticide & Insecticide panel,35501-6
+Mitochondrial myopathy enzyme panel,35502-4
+Amino acids panel,35507-3
+Amino acids panel,35508-1
+Amino acids panel,35509-9
+Cholinesterase panel,35558-6
+Rickettsia rickettsii Ab.IgG & IgM panel,35563-6
+Pigeon antibody panel,35575-0
+Hypersensitivity pneumonitis panel,35577-6
+Lymphocytic choriomeningitis virus Ab.IgG & IgM panel,35650-1
+Lymphocytic choriomeningitis virus Ab.IgG & IgM panel,35666-7
+Varicella zoster virus Ab.IgG & IgM panel,35679-0
+Hepatitis E virus Ab panel,35680-8
+Tissue transglutaminase Ab panel,35681-6
+Trypanosoma cruzi Ab.IgG & IgM panel,35682-4
+Burkholderia pseudomallei Ab.IgG & IgM panel,35683-2
+Colorado tick fever virus Ab.IgG & IgM panel,35684-0
+Brucella sp Ab.IgG & IgM panel,35739-2
+Rickettsia sp Ab.IgG & IgM panel,35740-0
+Eastern equine encephalitis virus Ab.IgG & IgM panel,35743-4
+Escherichia coli O157:H7 Ab.IgG & IgM panel,35752-5
+Organic acids panel,35866-3
+Braden scale skin assessment panel,38228-3
+Study report,38269-7
+Herpes virus 6 DNA panel,38351-3
+Oral assessment panel,39137-5
+Bartonella henselae Ab.IgG & IgM panel,41478-9
+Chlamydia sp Ab.IgG & IgM panel,41482-1
+Coxsackievirus A Ab panel,41484-7
+Coxsackievirus B Ab panel,41485-4
+Coxsackievirus B Ab.Neut panel,41486-2
+Febrile agglutinin Ab panel,41493-8
+Parainfluenza virus Ag panel,41505-9
+Polio virus Ab.Neut panel,41506-7
+Burkholderia pseudomallei Ab.IgG & IgM panel,41839-2
+Coxiella burnetii phase 1 & 2 Ab.IgG panel,41840-0
+Coxiella burnetii phase 1 & 2 Ab.IgM panel,41841-8
+Herpes virus 7 Ab.IgG & IgM panel,41842-6
+Lymphocytic choriomeningitis virus Ab.IgG & IgM panel,41843-4
+Bordetella pertussis & Bordetella parapertussis DNA panel,41875-6
+Rickettsia typhi & Rickettsia spotted fever group Ab.IgG & IgM panel,41876-4
+Bordetella pertussis Ab.IgA & IgG & IgM panel,41877-2
+Dengue virus Ab.IgG & IgM panel,41878-0
+Hepatitis A & B & C 7a panel,42191-7
+Sulfatide Ab.IgG & Ab.IgM panel,42218-8
+Rickettsia (Proteus) Ab panel,42342-6
+Streptococcus pneumoniae 14 serotypes Ab.IgG panel B,42359-0
+Streptococcus pneumoniae 14 serotypes Ab.IgG panel A,42360-8
+Streptococcus pneumoniae 12 serotypes Ab.IgG panel,42361-6
+Streptococcus pneumoniae 7 serotypes Ab.IgG panel B,42362-4
+Streptococcus pneumoniae 7 serotypes Ab.IgG panel A,42363-2
+Streptococcus pneumoniae 6 serotypes Ab.IgG panel,42364-0
+Streptococcus pneumoniae 4 serotypes Ab.IgG panel,42365-7
+Streptococcus pneumoniae 23 serotypes Ab.IgG panel,42366-5
+Event battery.MERS-TH,42546-2
+Inflammatory bowel disease Ab panel,42760-9
+Human papilloma virus high & Low risk DNA panel,42770-8
+Lactate dehydrogenase panel,42929-0
+Yersinia sp Ab panel,43098-3
+Vanillylmandelate & Creatinine panel,43099-1
+Sjogrens syndrome-A & B extractable nuclear Ab panel,43100-7
+Phosphatidylserine Ab.IgA & IgG & IgM panel,43101-5
+Acetaldehyde & Paraldehyde panel,43105-6
+Amitriptyline & Nortriptyline panel,43106-4
+Mycoplasma sp & Ureaplasma sp panel,43107-2
+Metanephrine & Normetanephrine panel,43108-0
+Leishmania sp Ab.IgG & IgM panel,43109-8
+Immunoglobulin light chains panel,43110-6
+Herpes simplex virus Ab panel,43112-2
+Hemoglobin panel,43113-0
+Porphyrin fractions panel,43116-3
+Fluoxetine & Norfluoxetine panel,43117-1
+Fat panel,43118-9
+Extractable nuclear Ab panel,43119-7
+Echovirus Ab panel,43120-5
+Doxepin & Nordoxepin panel,43122-1
+Imipramine & Desipramine panel,43123-9
+Cystine panel,43124-7
+Nicotine & Metabolites panel,43125-4
+Cortisol.free panel,43126-2
+clomiPRAMINE & Norclomipramine panel,43127-0
+Chloride panel,43128-8
+Brucella abortus Ab.IgG & IgM panel,43129-6
+Bile acid fractions panel,43130-4
+Bacterial Ag panel,43131-2
+Allopurinol & Oxipurinol panel,43133-8
+Calcidiol & Calciferol & Calcitriol panel,43134-6
+17-Ketosteroids & 17-Ketogenic steroids panel,43135-3
+Synthetic glucocorticoid panel,43141-1
+Height measurement device panel,43142-9
+Weighing device panel,43143-7
+Pedometer device panel,43144-5
+Peak flow meter device panel,43145-2
+Oxygen saturation device panel,43146-0
+Metabolism measurement device panel,43147-8
+Insulin delivery device panel,43148-6
+Heart rate device panel,43149-4
+HbA1c measurement device panel,43150-2
+Glucose meter device panel,43151-0
+Blood pressure device panel,43152-8
+Blood coagulation device panel,43153-6
+Desmoglein 1 & Desmoglein 3 Ab panel,43309-4
+Acylcarnitine panel,43433-2
+Bacterial Ag panel,43434-0
+Bartonella henselae & Bartonella quintana Ab.IgM panel,43435-7
+Bartonella henselae & Bartonella quintana Ab.IgG panel,43436-5
+Bartonella henselae & Bartonella quintana Ab.IgG & IgM panel,43437-3
+Bartonella henselae & Bartonella quintana Ab.IgG & IgM panel,43438-1
+Bartonella henselae & Bartonella quintana Ab.IgG panel,43439-9
+Bartonella henselae & Bartonella quintana Ab.IgM panel,43440-7
+Bacterial Ag panel,43443-1
+Fatty acid panel.comprehensive C8-C26,43674-1
+Fatty acid panel.mitochondrial C8-C18,43675-8
+Fatty acid panel.essential C12-C22,43676-6
+Fatty acid panel.very long chain C22-C26,43677-4
+Immunodeficiency panel,45268-0
+Chronic leukemia panel,45269-8
+Acute leukemia panel,45270-6
+PHQ-9 quick depression assessment panel,44249-1
+Motility & count panel,4463-6
+Amylase & Creatinine clearance panel,44789-6
+Menorrhagia coagulation panel,44791-2
+Immunoglobulin light chains panel,44792-0
+Immunoglobulin light chains panel,44793-8
+Homovanillate panel,44906-6
+5-Hydroxyindoleacetate panel,44907-4
+HLA typing for celiac disease panel,45023-9
+HLA typing for narcolepsy panel,45024-7
+HLA-A2 panel,45027-0
+Cardiovascular assessment panel,45033-8
+Cardiolipin Ab.IgA & IgG & IgM panel,45057-7
+cycloSPORINE.monoclonal & polyclonal panel,45058-5
+Ehrlichia chaffeensis Ab.IgG & IgM panel,45059-3
+Protein & Glucose panel,45060-1
+Spermatozoa Ab.IgA & IgG & IgM panel,45061-9
+Varicella zoster virus Ab.IgG & IgM panel,45063-5
+Creatinine & Glomerular filtration rate.predicted panel,45066-8
+Herpes gestationis Ab panel,45174-0
+Tick identification panel,45350-6
+MDS basic assessment tracking form - version 2.0,45963-6
+MDS background information at admission form - version 2.0,45969-3
+MDS full assessment form - version 2.0,45981-8
+MDS supplemental items section - version 2.0,46076-6
+MDS quarterly assessment form - version 2.0,46102-0
+MDS quarterly assessment form - version 2.0 - optional version for RUG-III,46103-8
+MDS quarterly assessment form - version 2.0 - optional version for RUG-III 1997 update,46104-6
+Rheumatoid factor & Cyclic citrullinated peptide Ab.IgG panel,46437-0
+Outcome and assessment information set (OASIS) form - version B1,46462-8
+Mental residual functional capacity (RFC) assessment form,46611-0
+Residual physical functional capacity (RFC) assessment form,46637-5
+Synthetic glucocorticoid panel,46959-3
+HLA Ab panel,46993-2
+Bacterial vaginosis & vaginitis rRNA panel,46999-9
+HIV Rx Form,47245-6
+Differential panel,47286-0
+Hemogram WO platelets panel,47287-8
+Complete blood count WO Differential panel,47288-6
+IgG & IgG subclass panel,47289-4
+IgG subclass panel,47290-2
+Wet mount panel,47531-9
+Sequence variation panel,48014-5
+Individual allele panel,48015-2
+Genechip kit panel,48016-0
+Sequencing methodology panel,48017-8
+Thyroxine binding globulin panel,48073-1
+Apgar panel^10M post birth,48332-1
+Apgar panel^5M post birth,48333-9
+Apgar panel^1M post birth,48334-7
+Geriatric depression scale (GDS) panel,48542-5
+Geriatric depression scale (GDS).short version panel,48543-3
+Clinical Care Classification (CCC) v2.5 panel,48546-6
+Omaha System 2005 panel,48547-4
+Living with HIV (LIV-HIV) panel,48548-2
+HIV-Signs and Symptoms Checklist (SSC) panel,48549-0
+Quality Audit Marker (QAM) panel,48550-8
+von Willebrand panel,48593-8
+Activated protein C resistance panel,48596-1
+Insulin.free & Insulin.total panel,48615-9
+"Vanillylmandelate, Homovanillate & Creatinine panel",48644-9
+3-Hydroxy fatty acid panel,48760-3
+Continuity of Care panel,48769-4
+Biophysical profile panel,48770-2
+Hepatitis C virus FibroSURE panel,48796-7
+Organic acids panel,48797-5
+First trimester maternal screen panel,48798-3
+Second trimester penta maternal screen panel,48799-1
+Second trimester quad maternal screen panel,48800-7
+Alpha-1-fetoprotein panel,48802-3
+Platelet aggregation panel,48805-6
+Leukogram panel,48808-0
+Erythrogram panel,48809-8
+Protein fractions 3 panel,48811-4
+Spermatozoa morphology panel,48812-2
+"Respiratory allergen panel, US - North Atlantic states a",48824-7
+"Respiratory allergen panel, US - Mid Atlantic states",48825-4
+"Respiratory allergen panel, US - South Atlantic states a",48826-2
+"Respiratory allergen panel, US - Subtropical Florida",48827-0
+"Respiratory allergen panel, US - Greater Ohio valley a",48828-8
+"Respiratory allergen panel, US - South central states",48829-6
+"Respiratory allergen panel, US - Northern midwest states a",48830-4
+"Respiratory allergen panel, US - Central midwest a",48831-2
+"Respiratory allergen panel, US - Great plains states a",48832-0
+"Respiratory allergen panel, US - Southwestern grassland states",48833-8
+"Respiratory allergen panel, US - Rocky mountain states a",48834-6
+"Respiratory allergen panel, US - Arid southwest",48835-3
+"Respiratory allergen panel, US - Southern coastal California",48836-1
+"Respiratory allergen panel, US - California central valley",48837-9
+"Respiratory allergen panel, US - Intermountain west a",48838-7
+"Respiratory allergen panel, US - Inland northwest a",48839-5
+"Respiratory allergen panel, US - Cascade Pacific northwest a",48840-3
+"Respiratory allergen panel, US - Alaska a",48841-1
+"Respiratory allergen panel, US - North Atlantic states b",48916-1
+"Respiratory allergen panel, US - South Atlantic states b",48917-9
+"Respiratory allergen panel, US - NC, PA, SC, VA, WV",48918-7
+"Respiratory allergen panel, US - Central Florida",48919-5
+"Respiratory allergen panel, US - Southern Florida",48920-3
+"Respiratory allergen panel, US - Southeast coast",48921-1
+"Respiratory allergen panel, US - West south central states",48922-9
+"Respiratory allergen panel, US - Greater Ohio valley b",48923-7
+"Respiratory allergen panel, US - Northern midwest states b",48924-5
+"Respiratory allergen panel, US - Central midwest b",48925-2
+"Respiratory allergen panel, US - Great plains states b",48926-0
+"Respiratory allergen panel, US - Rocky mountain states b",48927-8
+"Respiratory allergen panel, US - Inland northwest b",48928-6
+"Respiratory allergen panel, US - Cascade Pacific northwest b",48929-4
+"Respiratory allergen panel, US - Intermountain west b",48930-2
+"Respiratory allergen panel, US - AZ, Southeastern CA, Western NM",48931-0
+"Respiratory allergen panel, US - Alaska b",48932-8
+"Respiratory allergen panel, US - Hawaii",48933-6
+"Respiratory allergen panel, US - North Atlantic states c",49017-7
+"Respiratory allergen panel, US - Intermountain west c",49018-5
+"Respiratory allergen panel, US - Puerto Rico",49019-3
+"Respiratory allergen panel, US - Coastal California",49020-1
+"Respiratory allergen panel, US - Greater Ohio valley c",49021-9
+"Respiratory allergen panel, US - Northern midwest states c",49022-7
+Diazepam & Nordiazepam panel,49044-1
+PT & aPTT & Fibrinogen panel,49045-8
+Drugs of abuse panel,49046-6
+"North American Association of Central Cancer Registries, Inc (NAACCR, Inc) version 11 panel",49083-9
+First & Second trimester integrated maternal screen panel,49085-4
+First trimester maternal screen with nuchal translucency panel,49086-2
+Maternal screen clinical predictors panel,49087-0
+Arbovirus Ab.IgG & IgM panel,49093-8
+Arbovirus Ab.IgG & IgM panel,49094-6
+Immunodeficiency follow-up panel,49120-9
+"North American Association of Central Cancer Registries, Inc (NAACCR, Inc) Pathology Laboratory Electronic Reporting panel",49143-1
+Food allergen panel,49222-3
+Calcidiol & Calciferol panel,49590-3
+Calcium-phosphorus product panel,50676-6
+HIV susceptibility panel,49660-4
+HIV susceptibility panel,49665-3
+Uranium.depleted panel,49670-3
+2-Hydroxyestrone & 16-Alpha hydroxyestrone panel,49828-7
+Hepatitis B virus resistance panel,49883-2
+Lymphocyte proliferation.beryllium stimulation panel,49885-7
+Fetal lung maturity panel,50009-0
+Hepatitis C virus RNA panel,50023-1
+Volatiles panel,50025-6
+Calcitonin Calcium & Pentagastrin challenge panel,50179-1
+Neonatal bilirubin panel,50189-0
+Iron & Iron binding capacity panel,50190-8
+Occult blood panel,50191-6
+Occult blood panel,50196-5
+aPTT panel,50197-3
+Respiratory pathogens DNA & RNA 12a panel,50219-5
+Reticulocytes panel,50262-5
+Acylglycines panel,50334-2
+carBAMazepine & metabolites panel,50337-5
+Urinalysis microscopic panel,50554-5
+Urinalysis dipstick panel,50556-0
+Urinalysis panel,50564-4
+Gastric analysis panel,50579-2
+"Maternal screen for fetal abnormalities such as Open Neural Tube Defects, Trisomy 21 or Trisomy 18 panel",50580-0
+Adenosine monophosphate.cyclic stimulation panel,50581-8
+Glucose tolerance gestational panel,50582-6
+Glucose screen gestational panel,50583-4
+Lactose challenge panel,50584-2
+Triple bolus stimulation panel,50585-9
+Glucose tolerance 3H panel,50586-7
+Glucose tolerance 4H panel,50587-5
+Glucose tolerance 5H panel,50588-3
+Glucose tolerance 6H panel,50589-1
+HPA panel,50604-8
+Neisseria meningitidis serogroups Ag panel,50607-1
+Glucose tolerance 3H gestational panel,50608-9
+Semen analysis post vasectomy panel,50677-4
+Influenza virus susceptibility panel,50710-3
+Serotonin release.heparin.unfractionated panel,50736-8
+Serotonin release.heparin.porcine panel,50737-6
+Serotonin release.heparin.low molecular weight panel,50738-4
+Serotonin release.heparin.porcine & low molecular weight panel,50739-2
+Environmental stressors panel,51410-9
+Environmental stressors panel,51411-7
+Core respiratory allergens panel,51662-5
+Drugs of abuse 7 & Alcohol & Tricyclics panel,51782-1
+Paraneoplastic Ab panel,43104-9
+Gas panel,51973-6
+Gas panel,51972-8
+Gas panel,51974-4
+Pharmacogenetic DNA analysis panel,51962-9
+DNA marker results panel,51960-3
+Individual allele results panel,51975-1
+Genetic disease DNA analysis panel,51966-0
+Basic metabolic panel,51990-0
+Metanephrine & Normetanephrine panel,51993-4
+Heavy metals panel,51992-6
+Referral lab test panel,51991-8
+"t(9;22)(q34.1;q11)(ABL1,BCR) transcript detection panel",52135-1
+Body weight,52416-5
+Medication.current,18605-6
+Medication.discharge,18617-1
+Name + ID,18611-4
+Selection item attachment request modifier codes,29490-0
+Time window attachment request modifier codes,29489-2
+LOINC attachment modifier codes,29488-4
+Extrinsic coagulation system with fibrinolysis inhibition thromboelastography panel,52764-8
+Extrinsic coagulation system thromboelastography panel,52763-0
+Intrinsic coagulation system thromboelastography panel,52762-2
+Intrinsic coagulation system with heparin inhibition thromboelastography panel,52777-0
+Thromboelastography without activation panel,52765-5
+Continuity assessment record and evaluation tool - Expired,52747-3
+Body weight^at ambulance transport,18584-3
+Distance and time transported information,51996-7
+Origination site information,15511-9
+Destination site information,15512-7
+Rationale for wait time,52004-9
+Other patients information,52009-8
+Receiving individual accepting responsibility for patient,52012-2
+Ordering practitioner or agency,52015-5
+Physician certification for transport information,52016-3
+Extra attendants information,52074-2
+Clinical reports.non lab claims attachment,26443-2
+Nursing management minimum data set panel,52826-5
+DNA marker assessed panel,53042-8
+DNA marker identified panel,53044-4
+Carnitine newborn screen panel,53262-2
+Urinalysis microscopic panel,53293-7
+Urinalysis other formed elements panel,53333-1
+Urinalysis type of crystal panel,53305-9
+Urinalysis type of crystal panel,53295-2
+Urinalysis type of crystal panel,53325-7
+Urinalysis type of cast panel,53281-2
+Urinalysis type of cast panel,53277-0
+Urinalysis type of non-squamous epithelial cells panel,53276-2
+Urinalysis type of non-squamous epithelial cells panel,53273-9
+Urinalysis type of non-squamous epithelial cells panel,53270-5
+Urinalysis yeast variants panel,53267-1
+Urinalysis yeast variants panel,53264-8
+Urinalysis yeast variants panel,53263-0
+Urinalysis microscopic panel,53315-8
+Urinalysis other formed elements panel,53353-9
+Urinalysis other formed elements panel,53351-3
+VAP panel,53575-7
+Irritable bowel disease prognostic panel,53598-9
+Mycobacterium bovis tuberculin stimulated gamma interferon panel,53703-5
+Myasthenia gravis evaluation pediatric panel,53705-0
+Myasthenia gravis evaluation adult reflex panel,53706-8
+Hyperoxaluria panel,53710-0
+Cocaine panel,53747-2
+Barbiturates panel,53746-4
+Benzodiazepines panel,53745-6
+Natural killer cell panel,53759-7
+Prostate specific Ag panel,53764-7
+Estrogen fraction panel,53766-2
+Hepatitis A virus Ab panel,53775-3
+Acetaminophen & Propoxyphene panel,53781-1
+Chromium panel,53780-3
+HTT gene mutation panel,53783-7
+Platelets panel,53800-9
+Arbovirus Ab.IgG panel,53804-1
+Transferrin.carbohydrate deficient panel,53803-3
+Streptococcus pneumoniae 14 serotypes & Corynebacterium diphtheriae toxin & Clostridium tetani toxin Ab.IgG panel,53932-0
+HEDIS 2009 panel,54037-7
+Continuity assessment record and evaluation tool - Interim,52746-5
+Newborn screening panel,54089-8
+Galactosemia newborn screening panel (SI units),54080-7
+Thyroid newborn screening panel (SI units),54077-3
+Endocrine newborn screening panel (SI units),54075-7
+Organophosphonate nerve agent metabolite panel,54097-1
+Newborn hearing screening panel,54111-0
+US Surgeon General family health portrait,54127-6
+Bacterial vaginosis & vaginitis DNA panel,54145-8
+Lymphoma - T-cell screen panel,54229-0
+Lymphoma - CLL screen panel,54228-2
+Lymphoma - acute screen panel,54227-4
+Lymphoma panel,54226-6
+Immune response panel,54225-8
+Cortisol challenge panel,54235-7
+Cell count & Differential panel with Glucose & Protein,54230-8
+Semen analysis fertility panel,54231-6
+Cell count & Differential panel with Glucose & Protein,54234-0
+Protein & Glucose panel,54246-4
+Metabolic panel.large animal,54232-4
+Metabolic panel.small animal,54233-2
+Minimum Data Set - version 3.0,54580-6
+Respiratory pathogens panel,55101-0
+CEH metabolic toxin panel,55120-0
+CEH volatile organic compounds panel,55116-8
+CEH trace metals screen panel,55117-6
+CEH trace metals panel,55118-4
+CEH nitrogen mustard metabolite panel,55119-2
+CEH abrine & ricinine panel,54932-9
+Multiple sclerosis panel,55121-8
+Vaccine Adverse Event Reporting System panel,55140-8
+CYP2C9 & VKORC1 panel,54450-2
+Arsenic fractions panel,54454-4
+Adenovirus Ab.IgG & IgM panel,55160-6
+Bordetella pertussis Ab.IgA & IgG panel,55161-4
+Paroxysmal nocturnal panel,55164-8
+HTLV I+II Ab panel,55162-2
+Streptococcus pyogenes enzyme Ab panel,55163-0
+Anaplasma phagocytophilum Ab.IgG & IgM panel,55150-7
+Aldosterone & renin activity panel,55151-5
+Amiodarone & Desethylamiodarone panel,55152-3
+Biotinidase panel,55153-1
+Flunitrazepam & 7-Aminoflunitrazepam panel,55155-6
+Risperidone & 9-Hydroxyrisperidone panel,55157-2
+Children's preventive health services attachment,39294-4
+Data Elements for Emergency Department Systems (DEEDS) Release 1.0,55169-7
+Data Elements for Emergency Department Systems (DEEDS) Release 1.1,55168-9
+Quality Reporting Document Architecture panel,55181-2
+Electrolytes panel,55231-5
+Genetic analysis master panel,55233-1
+Alpha thalassemia gene panel,55234-9
+Abnormal hemoglobin gene panel,55235-6
+Protein fractions & Immunoglobulins panel,55295-0
+Diabetes tracking panel,55399-0
+Short Fibrin D-dimer FEU & DDU panel,55398-2
+Short myasthenia gravis panel,55397-4
+Beta 2 glycoprotein 1 Ab.IgA & IgG panel,55396-6
+Phospholipid Ab.IgA & IgG & IgM panel,55395-8
+Short blood pressure panel,55417-0
+Oxygen saturation & therapy panel,55415-4
+Pedometer tracking panel,55413-9
+Exercise tracking panel,55409-7
+Heart failure tracking panel,55405-5
+Asthma tracking panel,55403-0
+West Nile virus Ab.IgG & IgM panel,55402-2
+Warfarin tracking panel,55401-4
+Home drug screening panel,55419-6
+Weight & Height tracking panel,55418-8
+Short blood count panel,55429-5
+Seizure disorder tracking panel,55427-9
+Protein & Glucose panel,55394-1
+Continuity assessment record and evaluation tool - Post acute care - discharge,52745-7
+Influenza virus A H1 2009 pandemic RNA panel,55466-7
+Continuity assessment record and evaluation tool - Post acute care - admission,52744-0
+Continuity assessment record and evaluation tool - Home health admission,52748-1
+Continuity assessment record and evaluation tool - Acute care,52743-2
+Apolipoprotein A-I & A-II & B & C panel,55724-9
+Borrelia burgdorferi Ab.IgA & IgG & IgM panel,55726-4
+Yersinia sp Ab.IgG & IgM panel,55728-0
+Tissue transglutaminase Ab.IgA & IgG panel,55727-2
+Cerebroside sulfatase & N-Acetylgalactosamine-4-Sulfatase panel,55725-6
+howRu panel,55744-7
+Patient health questionnaire 2 item,55757-9
+PhenX - hand dominance - 12Y and older protocol 020602,56101-9
+Phenx - hand dominance - 42Mo and older protocol 020601,56096-1
+Child Waist Circumference Protocol,56087-0
+Adult Waist Circumference Protocol,56086-2
+Fungal Ab panel,56146-4
+Smith extractable nuclear Ab & Ribonucleoprotein extractable nuclear Ab panel,56148-0
+Beta 2 glycoprotein 1 Ab.IgA & IgG & IgM panel,56152-2
+Beta 2 glycoprotein & Cardiolipin Ab & Phosphatidylserine panel,56149-8
+Candida albicans Ab.IgA & IgG & IgM panel,56156-3
+Urinalysis dipstick W Reflex Culture panel,57019-2
+Urinalysis dipstick W Reflex Microscopic panel,57020-0
+Auto Differential panel,57023-4
+Complete blood count W Reflex Manual Differential panel,57022-6
+Complete blood count W Auto Differential panel,57021-8
+Health Quality Measure document,57024-2
+Herpesviruses 6 DNA panel,57031-7
+Antepartum record panel,57082-0
+Labor and Delivery record panel,57083-8
+Optical coherence tomography panel,57119-0
+Outcome and assessment information set (OASIS) form - version C,57039-0
+Outcome and assessment information set (OASIS) form - version C - Start of care,57190-1
+Outcome and assessment information set (OASIS) form - version C - Resumption of Care,57191-9
+Outcome and assessment information set (OASIS) form - version C - Follow-Up,57192-7
+Outcome and assessment information set (OASIS) form - version C - Transfer to facility,57193-5
+Outcome and assessment information set (OASIS) form - version C - Discharge from agency,57194-3
+Outcome and assessment information set (OASIS) form - version C - Death at home,57459-0
+Lipid panel with direct LDL,57698-3
+Disaccharidases panel,57765-0
+Trimipramine & Nortrimipramine panel,57767-6
+Toxoplasma gondii Ab.IgG & IgM panel,57770-0
+Metanephrine.free & Normetanephrine.free panel,57772-6
+Colorado tick fever virus Ab.IgG & IgM panel,57774-2
+Valproate.free & Valproate panel,57775-9
+Myeloperoxidase Ab & Proteinase 3 panel,57777-5
+Immunoglobulin light chains.free panel,57778-3
+Thyroglobulin & Thyroglobulin Ab panel,57780-9
+Complete blood count W Ordered Manual Differential panel,57782-5
+HIV 1 RNA panel,50624-6
+Fecal hydrolysis panel,57795-7
+Gliadin peptide Ab.IgA & IgG panel,57776-7
+Occult blood panel,57803-9
+HEDIS 2010 panel,57820-3
+Urinalysis complete W Reflex Culture panel,58077-9
+Erythrocyte morphology panel,58408-6
+Leukocyte morphology panel,58407-8
+Platelet morphology panel,58406-0
+Complete blood count panel,58410-2
+Microalbumin panel,58431-8
+Pyridinoline panel,55255-4
+Casts panel,58432-6
+Crystals panel,58433-4
+Cells panel,58434-2
+Microorganisms panel,58435-9
+Microalbumin/Creatinine ratio panel,58447-4
+Creatinine renal clearance adjusted for body surface area panel,58446-6
+DNAse B Ab.Streptococcal & Streptolysin O Ab panel,58713-9
+Testosterone free & total panel,58952-3
+Meperidine & Normeperidine panel,58953-1
+Coccidioides sp Ab.IgG & IgM panel,59049-7
+Adulterants panel,58715-4
+Testosterone.free+weakly bound & total panel,58716-2
+Porphyrin fractions panel,58732-9
+Mycoplasma pneumoniae Ab.IgG & IgM panel,58733-7
+Alpha-1-fetoprotein panel,58735-2
+Manganese panel,58736-0
+Inflammatory bowel disease Ab 7 panel,59059-6
+Lymphocyte proliferation panel,59063-8
+Lipoprofile panel,59062-0
+Surgical operative note panel,59270-9
+Hospital discharge summary panel,59271-7
+Morse Fall Scale panel,59453-1
+Procedure note - recommended C-CDA R1.1 sections,59843-3
+"North American Association of Central Cancer Registries, Inc (NAACCR, Inc) version 12 panel",59852-4
+Borrelia burgdorferi Ab.IgM bands panel,60343-1
+Borrelia burgdorferi Ab.IgG bands panel,60342-3
+HEDIS 2011 panel,60442-1
+CDC Immunization panel,60484-3
+Respiratory pathogens DNA & RNA 12b panel,60566-7
+Comprehensive pathology report panel,60567-5
+Cell count & Differential panel,60587-3
+Test of Infant Motor Performance Version 5.1,60687-1
+PROMIS short form - physical function 10a - version 1.0,62199-5
+PROMIS short form - sleep impairment 8a - version 1.0,62198-7
+PROMIS short form - sleep disturbance 8b - version 1.0,62197-9
+PROMIS short form - satisfaction with participation in social roles 7a - version 1.0,62196-1
+PROMIS short form - satisfaction with participation in DSA 7a - version 1.0,62195-3
+PROMIS short form - pain behavior 7a - version 1.0,62194-6
+PROMIS short form - pain interference 6b - version 1.0,62193-8
+PROMIS short form - fatigue 7a - version 1.0,62192-0
+PROMIS short form - emotional distress - depression 8b - version 1.0,62191-2
+PROMIS short form - emotional distress - anxiety 7a - version 1.0,62190-4
+PROMIS short form - emotional distress - anger 8a - version 1.0,62189-6
+PROMIS pediatric short form - emotional distress - anxiety 8a - version 1.0,62186-2
+PROMIS pediatric short form - emotional distress - anger - version 1.0,62180-5
+PROMIS pediatric item bank - physical function - upper extremity - version 1.0,62171-4
+PROMIS pediatric item bank - peer relationships - version 1.0,62155-7
+PROMIS pediatric item bank - pain interference - version 1.0,62141-7
+PROMIS pediatric item bank - physical function - mobility - version 1.0,62117-7
+PROMIS pediatric item bank - fatigue - version 1.0,62097-1
+PROMIS pediatric short form - depressive symptoms - version 1.0,62085-6
+PROMIS pediatric item bank - asthma - version 1.0,62068-2
+PROMIS pediatric item bank - emotional distress - anxiety - version 1.0,62054-2
+PROMIS item bank - satisfaction with participation in roles - version 1.0,62039-3
+PROMIS item bank - satisfaction with participation in DSA - version 1.0,62026-0
+PROMIS item bank - sleep related impairment - version 1.0,62010-4
+PROMIS item bank - sleep disturbance - version 1.0,61982-5
+PROMIS item bank - emotional distress - depression - version 1.0,61952-8
+PROMIS item bank - emotional distress - anxiety - version 1.0,61922-1
+PROMIS item bank - emotional distress - anger - version 1.0,61892-6
+PROMIS item bank - fatigue - version 1.0,61795-1
+PROMIS item bank - pain interference - version 1.0,61753-0
+PROMIS item bank - physical function - version 1.0,61587-2
+PROMIS short form - global - version 1.1,61576-5
+PROMIS item bank - pain behavior - version 1.0,62212-6
+PROMIS pediatric short form - physical function - mobility 8a - version 1.0,62206-8
+PROMIS pediatric short form - physical function - upper extremity 8a - version 1.0,62207-6
+PROMIS pediatric short form - fatigue 10a - version 1.0,62210-0
+PROMIS pediatric short form - peer relationships 8a - version 1.0,62209-2
+PROMIS pediatric short form - asthma 8a - version 1.0,62208-4
+PROMIS pediatric short form - pain interference 8a - version 1.0,62211-8
+PhenX domain - Nutrition and dietary supplements,62263-9
+PhenX - recumbent length protocol 020702,62295-1
+PhenX - ethnicity protocol 010501,62299-3
+PhenX - current age protocol 010101,62293-6
+PhenX - self reported height protocol 020704,62296-9
+PhenX - knee height protocol 020701,62335-5
+PROMIS item bank - 57 profile,62338-9
+PROMIS item bank - 43 profile,62336-3
+PROMIS item bank - 29 profile,62337-1
+Borrelia burgdorferi Ab.IgG+IgM with reflex to immune blot panel,62341-3
+Confusion Assessment Method (CAM),52495-9
+Chromosome analysis master panel,62389-2
+PhenX - standing height protocol 020703,62294-4
+PhenX - family history heart attack protocol 040101,62390-0
+PhenX - lipid profile protocol 040201,62391-8
+PhenX - blood pressure protocol 040301,62392-6
+PhenX - preg high blood pressure protocol 040401,62393-4
+PhenX - heart valve func protocol 040501,62394-2
+PhenX - angina protocol 040601,62395-9
+PhenX - sudden cardiac arrest protocol 040701,62396-7
+PhenX - myocardial infarct protocol 040801,62397-5
+PhenX - periph arterial disease protocol 040901,62398-3
+PhenX - abd aortic aneurysm protocol 041001,62399-1
+PhenX - arrhythmia protocol 041101,62400-7
+PhenX - deep venous thrombosis protocol 041201,62401-5
+PhenX - pulmonary embolus protocol 041301,62402-3
+PhenX - rheumatic fever protocol 041401,62403-1
+PhenX - arm span protocol 020101,62404-9
+PhenX - birth weight protocol 020201,62405-6
+PhenX - child head circum protocol 020501,62406-4
+PhenX - hip circumference protocol 020801,62409-8
+PhenX - max adult ht protocol 020901,62410-6
+PhenX - max adult wt protocol 021001,62411-4
+PhenX - upper arm circ protocol 021101,62412-2
+PhenX - neck circ protocol 021201,62413-0
+PhenX - pregnancy wt gain protocol 021301,62414-8
+PhenX - wt loss - gain protocol 021401,62415-5
+PhenX - weight - measured weight protocol 021501,62297-7
+PhenX - weight - self reported weight protocol 021502,62298-5
+Bordetella sp DNA panel,62426-2
+"PhenX domain - Alcohol, tobacco & other substances",62541-8
+PhenX domain - Environmental exposures,62512-9
+PhenX domain - Cancer,62557-4
+PhenX domain - Oral health,62576-4
+PhenX domain - Respiratory,62611-9
+PhenX domain - Reproductive health,62642-4
+PhenX domain - Psychiatric,62710-9
+PhenX domain - Ocular,62677-0
+PhenX domain - Neurology,62755-4
+PhenX domain - Diabetes,62787-7
+PhenX domain - Physical activity and physical fitness,62812-3
+PhenX domain - Infectious diseases and immunity,62863-6
+"PhenX domain - Skin, bone, muscle and joint",62896-6
+PhenX domain - Psychosocial,62911-3
+PhenX domain - Gastrointestinal,62949-3
+PhenX - birthplace protocol 010201,63046-7
+PhenX - birthplace of parents protocol 010301,63048-3
+PhenX - birthplace of grandparents protocol 010401,63050-9
+PhenX - current address protocol 010801,63052-5
+PhenX - current marital status protocol 010901,63054-1
+PhenX - current educational attainment protocol 011001,63056-6
+PhenX - annual family income protocol 011101,63058-2
+PhenX - years living in the U.S. protocol 011201,63060-8
+PhenX - current employment status protocol 011301,63062-4
+PhenX - household roster-relationships protocol 011401,63064-0
+PhenX - health insurance coverage protocol 011501,63066-5
+PhenX domain - Speech and hearing,63067-3
+PhenX domain - Social environments,63009-5
+Human coronavirus RNA panel,63430-3
+Nut allergen panel,63486-5
+PhenX - body composition by dual-energy x-ray absorptiometry protocol 020301,63520-1
+PhenX - body image protocol 020401,63522-7
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,64017-7
+Clozapine & Norclozapine panel,65632-2
+Creatinine 24 hour urine panel,65634-8
+KIR genotyping panel,64418-7
+Fragile X protein (FMRP) panel,64433-6
+End stage renal disease facility survey - OMB CMS form 2744,64323-9
+Drugs of abuse 5 panel,65750-2
+T-cell helper (CD4) subset panel,65758-5
+T-cell subsets CD4 & CD8 panel,65759-3
+Framingham Risk Assessments,66336-9
+Thromboelastography panel,67790-6
+"Vital signs, weight, height, head circumference & oximetry panel",67795-5
+HEDIS 2012 panel,67767-4
+Babesia identification panel,67866-4
+Meperidine & Normeperidine panel,68314-4
+Transcortin & Cortisol.free panel,68315-1
+"Metanephrine, Normetanephrine & Creatinine panel",68317-7
+Hypoglycemics panel,68318-5
+Polio virus Ab panel,68320-1
+Neuro-Qol short form - stigma - version 1.0,67914-2
+Neuro-Qol short form - satisfaction with social roles - version 1.0,67913-4
+Neuro-Qol short form - participate in social roles - version 1.0,67912-6
+Neuro-Qol short form - positive affect - version 1.0,67911-8
+Neuro-Qol short form - emotional - behavioral - version 1.0,67910-0
+Neuro-Qol short form - general concerns - version 1.0,67909-2
+Neuro-Qol short form - executive function - version 1.0,67908-4
+Neuro-Qol short form - lower extremity - version 1.0,67907-6
+Neuro-Qol short form - upper extremity - version 1.0,67906-8
+Neuro-Qol short form - fatigue - version 1.0,67905-0
+Neuro-Qol short form - depression - version 1.0,67904-3
+Neuro-Qol short form - anxiety - version 1.0,67903-5
+Neuro-Qol item scale - communication - version 1.0,67902-7
+Neuro-Qol item bank - stigma - version 1.0,67901-9
+Neuro-Qol item bank - satisfaction with social roles - version 1.0,67900-1
+Neuro-Qol item bank - participate in social roles - version 1.0,67899-5
+Neuro-Qol item bank - sleep disturbance - version 1.0,67898-7
+Neuro-Qol item bank - positive affect - version 1.0,67897-9
+Neuro-Qol item bank - emotional - behavioral dyscontrol - version 1.0,67896-1
+Neuro-Qol item bank - general concerns - version 1.0,67895-3
+Neuro-Qol item bank - executive function - version 1.0,67894-6
+Neuro-Qol item bank - lower extremity - version 1.0,67893-8
+Neuro-Qol item bank - upper extremity - version 1.0,67892-0
+Neuro-Qol item bank - fatigue - version 1.0,67891-2
+Neuro-Qol item bank - depression - version 1.0,67890-4
+Neuro-Qol item bank - anxiety - version 1.0,67889-6
+Neuro-Qol pediatric short form - fatigue - version 1.0,68141-1
+Neuro-Qol pediatric short form - general concerns - version 1.0,68140-3
+Neuro-Qol pediatric short form - peer interaction - version 1.0,68139-5
+Neuro-Qol pediatric short form - depression - version 1.0,68138-7
+Neuro-Qol pediatric short form - stigma - version 1.0,68137-9
+Neuro-Qol pediatric short form - anxiety - version 1.0,68136-1
+Neuro-Qol pediatric item scale - upper extremity - version 1.0,68135-3
+Neuro-Qol pediatric item scale - lower extremity - version 1.0,68134-6
+Neuro-Qol pediatric item bank - pain - version 1.0,68133-8
+Neuro-Qol pediatric item bank - fatigue - version 1.0,68132-0
+Neuro-Qol pediatric item bank - general concerns - version 1.0,68131-2
+Neuro-Qol pediatric item bank - adult interaction - version 1.0,68130-4
+Neuro-Qol pediatric item bank - peer interaction - version 1.0,68129-6
+Neuro-Qol pediatric item bank - anger - version 1.0,68128-8
+Neuro-Qol pediatric item bank - anxiety - version 1.0,68127-0
+Neuro-Qol pediatric item bank - depression - version 1.0,68126-2
+Neuro-Qol pediatric item bank - stigma - version 1.0,68125-4
+Fentanyl & Norfentanyl panel,67822-7
+"End stage renal disease medical evidence report, medicare entitlement &or patient registration - OMB CMS form 2728",67868-0
+End stage renal disease death notification - OMB CMS form 2746,68359-9
+Treponema pallidum Ab.IgG & IgM panel,68502-4
+Serotonin release.heparin.unfractionated & low molecular weight panel,68501-6
+Core behavioral and psychosocial data elements for the electronic health record,68899-4
+PFGE panel,68982-8
+Epidemiologically important information for public health reporting panel,68991-9
+Specimen-related information panel,68992-7
+Buprenorphine & Norbuprenorphine panel,69033-9
+Amphetamines panel,69021-4
+Opiates panel,69026-3
+Cocaine panel,69008-1
+Western equine encephalitis virus Ab.IgG & IgM panel,69036-2
+Eastern equine encephalitis virus Ab.IgG & IgM panel,69035-4
+Eastern equine encephalitis virus Ab.IgG & IgM panel,69034-7
+Western equine encephalitis virus Ab.IgG & IgM panel,69041-2
+Enterocyte Ab panel,69039-6
+Chronic urticaria index panel,69040-4
+Lymphocyte proliferation mitogen panel,69018-0
+Lymphocyte proliferation antigen panel,69042-0
+Hemogram WO platelets panel,24358-4
+Urinalysis type of cast panel,53330-7
+Continuity assessment record and evaluation tool - long term care hospital - version 1.0,69412-5
+Care record summary panel,69459-6
+Outpatient physical therapy improvement in movement assessment log,69492-7
+Thromboelastography after addtion of heparinase panel,69552-8
+Lactose tolerance panel^dosage unspecified,69555-1
+Lactose tolerance panel^dosage unspecified,69554-4
+Bacterial vaginosis DNA & score panel,69571-8
+Patient health questionnaire 4 item,69724-3
+Patient health questionnaire,69723-5
+"Patient Health Questionnaire-somatic, anxiety, and depressive symptoms",69729-2
+Patient health questionnaire 15 item,69728-4
+Tissue transglutaminase Ab.IgA+gliadin peptides Ab.IgA & IgG panel,69726-8
+Generalized anxiety disorder 7 item,69737-5
+"Complete blood count W Differential panel, method unspecified",69742-5
+Drugs of abuse panel,69739-1
+Cell count & Differential panel,59257-6
+"Differential panel, method unspecified",69738-3
+Cell count panel,69740-9
+Differential panel,69741-7
+"Race, ethnicity, sex, primary language, disability - Health & Human Services (HHS) panel",69919-9
+Bordetella sp filamentous hemagglutinin & pertussis toxin Ab.IgA & IgG panel,69756-5
+Rickettsia typhus group & Rickettsia spotted fever group acute & convalescent Ab.IgG & IgM panel,70130-0
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,70164-9
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,70163-1
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,70162-3
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,70161-5
+NIH stroke scale,70182-1
+Basic metabolic 2008 panel with ionized calcium,70219-1
+Post traumatic stress disorder checklist - civilian version,70221-7
+Functional assessment of chronic illness therapy - cancer specific symptom indexes panel,70506-1
+Functional assessment of chronic illness therapy - cancer specific measures panel,70505-3
+Functional assessment of chronic illness therapy - general measures panel,70504-6
+Functional assessment of chronic illness therapy - treatment specific measures panel,70672-1
+Functional assessment of chronic illness therapy - symptom specific measures panel,70674-7
+General eye evaluation,70947-7
+Functional assessment of chronic illness therapy - non cancer specific measures panel,70673-9
+Dialysis adequacy panel,70300-9
+Patient information panel,70297-7
+Mineral metabolism panel,70298-5
+Anemia management panel,70299-3
+Edinburgh Postnatal Depression Scale,71354-5
+CMS - past family - social history panel,71421-2
+CMS - review of systems panel,71406-3
+CMS - physical exam panel,71388-3
+CMS - history of present illness panel,71428-7
+Human papilloma virus 16 & 18 & 31+33+35+39+45+51+52+56+58+59+66+68 DNA panel,71432-9
+Infection panel,71459-2
+Erythropoiesis-stimulating agent panel,71457-6
+M3 Checklist,71569-8
+Facility panel,71747-0
+Personnel contact information panel,71746-2
+Hospitalization panel,71531-8
+Mycobacterium tuberculosis stimulated gamma interferon panel,71775-1
+M3 Checklist - follow-up,71891-6
+Veterans RAND health survey - 36 item,71933-6
+Veterans RAND health survey - 12 item,71934-4
+Fluid and weight panel,72084-7
+Iron panel,72068-0
+Vaccination panel,72061-5
+Medication allergies panel,72062-3
+Vascular access panel,72055-7
+Vitamin D panel,72034-2
+Acute & chronic leukemia fusion transcript panel,72103-5
+Hip and knee outcomes questionnaire,71948-4
+St. Louis University mental status examination,71947-6
+Short informant questionnaire on cognitive decline in the elderly,71946-8
+Ascertain dementia 8,71945-0
+Minnesota Living with Heart Failure Questionnaire,71939-3
+Mini-mental state examination,72107-6
+Knee injury and osteoarthritis outcome score,72091-2
+Hip dysfunction and osteoarthritis outcome score,72092-0
+Ages and stages questionnaires,71954-2
+Rwandan maternal screening panel,72156-3
+Functional assessment of chronic illness therapy - pediatric measures panel,70675-4
+Glucose tolerance 2H panel,72171-2
+Montreal cognitive assessment,72133-2
+Blessed orientation-memory-concentration test,72087-0
+Kansas City cardiomyopathy questionnaire,71941-9
+HEDIS 2013 panel,72199-3
+Parathyrin.intact intraoperative panel,72203-3
+Continuity of Care Document - recommended C-CDA R1.1 sections,72232-2
+Consultation note - recommended C-CDA R1.1 sections,72231-4
+Diagnostic imaging report - recommended C-CDA R1.1 sections,72230-6
+Discharge summary - recommended C-CDA R1.1 sections,72229-8
+History and physical note - recommended C-CDA R1.1 & R2.0 & R2.1 sections,72228-0
+Surgical operation note - recommended C-CDA R1.1 & R2.0 & R2.1 sections,72227-2
+Progress note - recommended C-CDA R1.1 sections,72225-6
+Amylase & triacylglycerol lipase panel,72272-8
+Bilirubin excess & oxyhemoglobin & methemoglobin & xanthochromia & albumin quotient panel,72264-5
+Platelet function.collagen+Adenosine diphosphate induced & EPINEPHrine induced panel,72257-9
+Wound dressing panel,72286-8
+Nail assessment panel,72283-5
+Positive airway pressure panel,69999-1
+Patient reported outcome quality of life tool,72355-1
+Body site identification panel,72369-2
+Synthetic cannabinoids panel,72478-1
+Differential panel,72395-7
+Cell count panel,72394-0
+Cell count & Differential panel,72393-2
+Candida sp 6 panel,72481-5
+Vital signs with smoking status and pain scale,72513-5
+Intrinsic coagulation factor activity 4 panel,72661-2
+Extrinsic coagulation factor activity 4 panel,72662-0
+"Metanephrine, Normetanephrine, 3-Methoxytyramine & Creatinine panel",72670-3
+Cholinesterase activity panel,72694-3
+Erythrocyte enzyme panel,72695-0
+Beta 2 glycoprotein 1 Ab.IgG & IgM panel,72488-0
+Del(13)(q14) & del(17)(p13),72727-1
+Chlamydia trachomatis & Neisseria gonorrhoeae DNA panel,72828-7
+Drugs of abuse panel,72479-9
+Barbiturates panel,72480-7
+Methadone panel,72476-5
+Cytomegalovirus resistance panel,72852-7
+Hepatitis C virus resistance panel,72862-6
+CYP2D6 gene & CYP2C19 gene targeted mutation analysis panel,72886-5
+Staphylococcus aureus methicillin resistance SCCmec & mecA genes panel,72892-3
+HNA genotype panel,72907-9
+HNA Ab panel,72906-1
+Neutrophil Ab & HLA Ab screen panel,72905-3
+Drug induced neutrophil Ab panel,72909-5
+Drug induced platelet Ab panel,72908-7
+Propoxyphene panel,73660-3
+Barbiturates panel,73663-7
+Benzodiazepines panel,73662-9
+Methadone panel,73661-1
+Respiratory syncytial virus Ab.IgG & IgM panel,49037-5
+Neonatal skin risk assessment scale panel,73790-8
+Bile acid panel,73725-4
+Bile acid dihydroxy & trihydroxy panel,73724-7
+Chronic lyme disease panel,73897-1
+Catecholamines 3 panel,73865-8
+Catecholamine metabolites & creatinine panel,73879-9
+Catecholamines 3 & creatinine panel,73866-6
+Steroid fractions panel,73886-4
+Steroid fractions panel,73885-6
+7-Dehydrocholesterol & 8-Dehydrocholesterol panel,73852-6
+Noninvasive prenatal fetal aneuploidy panel,73967-2
+Keyhole limpet hemocyanin Ab panel,73979-7
+Virtual medical record for clinical decision support panel,74028-2
+Arbovirus Ab.IgM panel,74032-4
+Periodontal attachment - recommended CDA set,74029-0
+Patient safety event report - hospital - medication or other substance - version 1.2,74080-3
+Healthcare associated infection report - recommended CDA R2 sections,51896-9
+Weight difference pre dialysis & post dialysis panel,74219-7
+HEDIS 2014 Value Sets,74234-6
+Oncology plan of care and summary - recommended CDA set,74293-2
+Mycobacterium tuberculosis stimulated gamma interferon & spot count panel,74281-7
+Cryoglobulin & cryofibrinogen panel,74352-6
+Sodium & Potassium panel,74353-4
+MICA Ab.IgG panel,74409-4
+Polychlorinated biphenyl panel,74410-2
+Complete blood count W Differential panel,74412-8
+Gamma aminobutyrate free and total panel,74439-1
+Sugars and polyols panel,74447-4
+Porphyrin fractions panel,74445-8
+Calculus analysis panel,74446-6
+Patient plan of care - recommended IHE set,74449-0
+Middle east respiratory syndrome coronavirus RNA panel,74408-6
+Complement activity panel,74519-0
+Patient safety event report - hospital - summary of initial report - version 1.2,74501-8
+Patient safety event report - hospital - healthcare event reporting form - version 1.2,74495-3
+Tryptophan-related indole profiling panel,74545-5
+Fatty acid oxidation panel,74533-1
+"Delta aminolevulinate, porphobilinogen and creatinine panel",74527-3
+"Delta aminolevulinate, porphobilinogen and creatinine panel",74526-5
+Amino acids panel,74514-1
+Patient safety event report - hospital - patient information form - version 1.2,74502-6
+"Patient safety event report - hospital - device or medical &or surgical supply, including health information technology - version 1.2",74725-3
+"Vital signs, weight, height, head circumference, oximetry, BMI, & BSA panel",74728-7
+Bacterial vaginosis DNA panel,74635-4
+Dimethylacetal panel,74634-7
+Dimethylacetal panel,74633-9
+Influenza virus B Victoria & Yamagata lineage RNA panel,74787-3
+Glucose challenge panel,74790-7
+Fructose challenge panel,74789-9
+Lactulose challenge panel,74788-1
+Metanephrine & Normetanephrine panel,74831-9
+Immunoglobulin light chains & heavy chains panel,74773-3
+Acylglycines panel,74914-3
+ERBB2 gene duplication associated observations panel,74885-5
+Metabolic disorder therapy monitoring panel,74874-9
+Porphyrin fractions & creatinine panel,74910-1
+Cerebroside sulfatase & N-Acetylgalactosamine-4-Sulfatase panel,74978-8
+Amino acids panel,74991-1
+Chloride & sodium panel,74993-7
+OLANZapine panel,75021-6
+Porphyrin fractions panel,74835-0
+Congenital syphilis case investigation and report panel,75199-0
+Sterols panel,74888-9
+Norton scale panel,75243-6
+Disability information & assistance needed panel,75256-8
+PROMIS short form - pain intensity 3a - version 1.0,75259-2
+PROMIS short form - sleep disturbance 4a - version 1.0,75258-4
+Nutrition assessment panel,75282-4
+Nutrition status observation panel,75304-6
+PCORI patient-reported outcomes common measures - core and recommended,75418-4
+Lupus anticoagulant two screening tests W Reflex panel,75515-7
+Noninvasive prenatal fetal aneuploidy and microdeletion panel,75547-0
+HIV 1 & 2 tests - Meaningful Use set,75622-1
+TNM clinical staging before treatment panel,75620-5
+TNM pathologic staging after surgery panel,75621-3
+Rheumatoid arthritis disease activity panel,75635-3
+Electrolytes 3 panel,75641-1
+Electrolytes 3 panel,75667-6
+Dartmouth COOP Functional Assessment Charts - 4 weeks,75743-5
+Dartmouth COOP Functional Assessment Charts - 2 weeks,75742-7
+Iron panel,75689-0
+Advance directives panel,75772-4
+Antihistamines panel,75814-4
+Antipsychotics drug panel,75815-1
+PCORnet common data model set - version 1.0,75854-0
+Bilirubin fractions panel,75697-3
+Hepatitis A virus RNA & Parvovirus B19 DNA panel,75860-7
+HEDIS 2015 Value Sets,75868-0
+Patient activity scale II,75876-3
+Patient activity scale,75877-1
+Lupus anticoagulant three screening tests W Reflex panel,75881-3
+HCV RNA screening tests - Meaningful Use set,75888-8
+HCV antibody RIBA tests - Meaningful Use set,75887-0
+HCV antibody screening tests - Meaningful Use set,75886-2
+PROMIS short form - pain interference 8a - version 1.0,75870-6
+Sterols panel,75858-1
+Advance directives panel,75911-8
+IEEE Rosetta panel,75885-4
+Abbreviated Injury Scale panel,76067-8
+Alcohol use disorder identification test-consumption,72109-2
+Respiratory pathogens DNA & RNA 4 panel,76091-8
+Sugar absorption test panel,76133-8
+American Physical Therapy Association Registry panel,76464-7
+Social connection and isolation panel,76506-5
+"Humiliation, Afraid, Rape, and Kick questionnaire",76499-3
+Acetylcholinesterase panel,76478-7
+Respiratory pathogens RNA 8 panel,76771-5
+Trace elements panel,76770-7
+PROMIS short form - emotional support 8a - version 2.0,76736-8
+PROMIS short form - emotional support 4a - version 2.0,76735-0
+PROMIS short form - emotional support 6a - version 2.0,76734-3
+PROMIS short form - companionship 6a - version 2.0,76733-5
+PROMIS short form - companionship 4a - version 2.0,76732-7
+PROMIS short form - ability to participate in social roles and activities 8a - version 2.0,76731-9
+PROMIS short form - satisfaction with participation in social roles 4a - version 1.0,76704-6
+PROMIS short form - sleep disturbance 6a - version 1.0,76703-8
+PROMIS short form - physical function 20a - version 1.0,76702-0
+PROMIS short form - satisfaction with participation in social roles 8a - version 1.0,76701-2
+PROMIS short form - physical function 4a - version 1.0,76700-4
+PROMIS short form - fatigue 4a - version 1.0,76342-5
+PROMIS short form - emotional distress - depression 4a - version 1.0,76343-3
+PROMIS short form - emotional distress - anxiety 4a - version 1.0,76344-1
+Porphyrin fractions panel,77009-9
+Energy content panel,77151-9
+Anaplasma phagocytophilum & Ehrlichia chaffeensis IgG panel,77165-9
+Chlamydia sp Ab.IgG & IgM panel,77166-7
+Coxiella burnetii phase 1 & 2 Ab.IgG & IgM panel,77175-8
+Hepatitis B virus little e Ag & Ab panel,77176-6
+Hepatitis B virus core & surface Ab & surface Ag panel,77190-7
+Weight management summary - recommended IHE set,77249-1
+Mumps virus IgG & IgM panel,77250-9
+Beta-2 transferrin panel,77347-3
+Metanephrine.free & Normetanephrine.free & 3-Methoxytyramine.free panel,77366-3
+Nitrogen panel,77365-5
+"Tryptophan, kynurenin & 3-hydroxykynurenin panel",77364-8
+clomiPRAMINE trough & clomiPRAMINE+Norclomipramine trough & Norclomipramine panel,77374-7
+Human papilloma virus 16 & 18 & 31+33+35+39+45+51+52+56+58+59+66+68 DNA panel,77378-8
+Human papilloma virus 16 & 18 & 31+33+35+39+45+51+52+56+58+59+66+68 DNA panel,77376-2
+Protein fractions panel,77381-2
+DNA analysis discrete sequence variation basic associated observations panel,77313-5
+Chromosome analysis basic associated observations panel,77314-3
+Mumps virus IgG & IgM index associated observations panel,77398-6
+Measles virus Ab.IgG associated observations panel,77310-1
+PROMIS item bank - alcohol - negative expectancies - version 1.0,76940-6
+PROMIS item bank - alcohol - positive outcomes - version 1.0,76939-8
+PROMIS item bank - alcohol - negative consequences - version 1.0,76938-0
+PROMIS item bank - alcohol - alcohol use - version 1.0,76899-4
+PROMIS item bank - alcohol - positive expectancies - version 1.0,76889-5
+PROMIS item bank - social isolation - version 2.0,76806-9
+PROMIS item bank - instrumental support - version 2.0,76791-3
+PROMIS item bank - informational support - version 2.0,76790-5
+PROMIS item bank - emotional support - version 2.0,76789-7
+PROMIS item bank - companionship - version 2.0,76788-9
+PROMIS item bank - ability to participate in social roles and activities - version 2.0,76787-1
+PROMIS item bank - satisfaction with social roles and activities - version 2.0,76774-9
+American National Adult Reading Test panel,77547-8
+Brief Pain Inventory short form - pain interference panel,77564-3
+Respiratory pathogens DNA & RNA 14 panel,77029-7
+ENT microorganism gene identification panel,76586-7
+Wound microorganism gene identification panel,76585-9
+Lysosomal acid lipase panel,76621-2
+Mitochondrial respiratory chain enzyme analysis panel,76623-8
+Noninvasive prenatal fetal 18 & 21 aneuploidy panel,77019-8
+Noninvasive prenatal fetal 13 & 18 & 21 aneuploidy panel,77018-0
+Breast cancer 10Y risk of distant recurrence panel,76546-1
+Salivary gland protein 1 & Carbonic anhydrase 6 & Parotid secretory protein Ab.IgA & IgG & IgM panel,77217-8
+Antipsychotics drug panel,76659-2
+Chlamydia trachomatis & Neisseria gonorrhoeae DNA panel,77577-5
+HYDROcodone & metabolites panel,74760-0
+Soluble fms-like tyrosine kinase-1 & placental growth factor panel,74764-2
+International Physical Activity Questionnaire self-administered short form,77582-5
+HLA class I & II Ab.IgG panel,77639-3
+Unified Parkinson's Disease Rating Scale panel,77717-7
+PROMIS short form - instrumental support 8a - version 2.0,76797-0
+PROMIS short form - instrumental support 6a - version 2.0,76796-2
+PROMIS short form - instrumental support 4a - version 2.0,76795-4
+PROMIS short form - informational support 8a - version 2.0,76794-7
+PROMIS short form - informational support 6a - version 2.0,76793-9
+PROMIS short form - informational support 4a - version 2.0,76792-1
+Mycobacterium abscessus complex clarithromycin resistance erm(41) gene panel,77737-5
+HTLV I & II panel,77742-5
+PROMIS short form - alcohol - positive consequences 7a - version 1.0,77007-3
+PROMIS short form - alcohol - positive expectancies 7a - version 1.0,77006-5
+PROMIS short form - alcohol - negative expectancies 7a - version 1.0,77005-7
+PROMIS short form - alcohol - negative consequences 7a - version 1.0,77004-0
+PROMIS short form - alcohol - alcohol use 7a - version 1.0,77003-2
+PROMIS short form - physical function 8b - version 1.2,76805-1
+PROMIS short form - physical function 6b - version 1.2,76804-4
+PROMIS short form - social isolation 8a - version 2.0,76803-6
+PROMIS short form - social isolation 6a - version 2.0,76802-8
+PROMIS short form - social isolation 4a - version 2.0,76801-0
+PROMIS short form - satisfaction with social roles and activities 8a - version 2.0,76800-2
+PROMIS short form - satisfaction with social roles and activities 6a - version 2.0,76799-6
+PROMIS short form - satisfaction with social roles and activities 4a - version 2.0,76798-8
+Case notification panel,78000-7
+HLA-A & B & DRB & DQB1 panel,78013-0
+Tumor morphology panel,77753-2
+Pharmacogenomic analysis basic associated observations panel,78046-0
+Fatty acid & triglyceride panel,78361-3
+Fatty acid panel.comprehensive C8-C26,78344-9
+Imipramine trough & Imipramine+desimipramine trough & Desipramine panel,78365-4
+Mirtazapine trough & Normirtazapine panel,78435-5
+Primidone & PHENobarbital trough panel,78436-3
+"carBAMazepine free & total trough & 10,11-Epoxide panel",78434-8
+Fluoxetine trough & Fluoxetine+norfluoxetine trough & Norfluoxetine panel,78437-1
+Sertraline trough & Norsertraline panel,78438-9
+Phenytoin free & total trough panel,78439-7
+Risperidone trough & 9-Hydroxyrisperidone panel,78440-5
+Bordetella pertussis & Bordetella parapertussis panel,78921-4
+Respiratory pathogens DNA & RNA panel,78922-2
+General Practitioner Assessment of Cognition,79115-2
+Cold agglutinin panel,79160-8
+Patient demographics panel,79191-3
+Gastrointestinal pathogens panel,79381-0
+Aldosterone & renin concentration panel,78960-2
+Steroid fractions panel,79221-8
+Carnitine biosynthesis intermediates panel,79287-9
+Carnitine biosynthesis intermediates panel,79286-1
+Carnitine biosynthesis intermediates panel,79285-3
+Carnitine biosynthesis intermediates panel,79284-6
+"Creatine, guanidinoacetate & creatinine panel",79290-3
+Creatine & guanidinoacetate panel,79289-5
+Creatine & guanidinoacetate panel,79288-7
+D- & L-2-hydroxyglutarate panel,79294-5
+D- & L-2-hydroxyglutarate panel,79295-2
+D- & L-2-hydroxyglutarate panel,79296-0
+D- & L-2-hydroxyglutarate panel,79297-8
+D- & L-2-hydroxyglutarate panel,79298-6
+Pyridoxal phosphate & pyridoxal & pyridoxine panel,79325-7
+Pyridoxal phosphate & pyridoxal & pyridoxine panel,79324-0
+Nortriptyline & E-10-hydroxynortriptyline & Z-10-hydroxynortriptyline panel,79161-6
+Chlordiazepoxide & Norchlordiazepoxide panel,79162-4
+OXcarbazepine trough & 10-hydroxycarbazepine panel,79165-7
+Clobazam & norclobazam panel,79408-1
+Dothiepin+nordothiepin trough & dothiepin sulfoxide panel,79409-9
+Mianserin trough & Normianserin panel,79412-3
+Staphylococcus aureus & Methicillin-resistant Staphylococcus aureus panel,79448-7
+HEDIS 2016 Value Sets,79544-3
+Serial smears for diagnosing pulmonary tuberculosis panel,79424-8
+Peritoneal equilibration test panel,78747-3
+"Metanephrine, Normetanephrine, 3-methoxytyramine & Creatinine panel",79575-7
+Riboflavin & flavin mononucleotide & flavin adenine dinucleotide panel,79573-2
+Folate & tryptophan & metabolites panel,79572-4
+Catecholamine metabolites panel,79499-0
+PROMIS pediatric short form - emotional distress - anxiety 8b - version 1.1,77875-3
+PROMIS pediatric item bank - physical function - upper extremity - version 2.0,78161-7
+Purine & Pyrimidine panel,79673-0
+Purine & Pyrimidine panel,79668-0
+Purine & Pyrimidine panel,79665-6
+R- & S-beta aminoisobutyrate & D- & L-serine panel,79583-1
+Beta alanine & Beta aminoisobutyrate & Gamma aminobutyrate panel,79584-9
+R- & S-beta aminoisobutyrate & D- & L-serine panel,79586-4
+Beta alanine & Beta aminoisobutyrate & Gamma aminobutyrate panel,79603-7
+R- & S-beta aminoisobutyrate & D- & L-serine panel,79605-2
+Phenylalanine & Tyrosine panel,79621-9
+Beta alanine & Beta aminoisobutyrate & Gamma aminobutyrate panel,79650-8
+Prolactin isoforms panel,78993-3
+Catecholamine metabolites panel,79391-9
+Synovial fluid analysis panel,79399-2
+Liver fibrosis score panel,78699-6
+Liver fibrosis score panel,78698-8
+Segmental wall motion panel,78950-3
+Electroretinography panel,79894-2
+Subjective refraction panel,79895-9
+Tonometry panel,79896-7
+Physical findings panel,79897-5
+Objective refraction panel,79898-3
+"Social, psychological & behavioral observations - 2015 Edition Health IT Certification Criteria set",80216-5
+S-adenosylmethionine & S-adenosylhomocystine panel,80179-5
+S-adenosylmethionine & S-adenosylhomocystine panel,80178-7
+Pterins panel,80170-4
+Pterins panel,80169-6
+Pterins panel,80168-8
+Bile alcohols panel,80163-9
+Catheterization & angiography procedure details panel,80190-2
+Catheterization & angiography procedures performed panel,78949-5
+Catheterization & angiography device panel,78942-0
+Assisted circulation procedures performed panel,78933-9
+Coronary segment stenosis panel,78895-0
+Noninvasive arteriosclerosis studies panel,77197-2
+Coronary artery disease risk factor panel,78940-4
+Comorbid condition panel,78923-0
+Cardiovascular disease history panel,78941-2
+Nursing physiologic assessment panel,80346-0
+Herpes simplex virus 1 & 2 DNA panel,80354-4
+Rotavirus & Adenovirus Ag panel,80376-7
+Adenovirus & Norovirus & Rotavirus Ag panel,80374-2
+Influenza virus A & B Ag panel,80381-7
+Occupational exposure information panel,80399-9
+LOINC Document Ontology associated observations panel,80582-0
+Uroflowmetry panel,80525-9
+Clostridium botulinum & Clostridium baratii toxins gene panel,80827-9
+Pepsin A Panel,80831-1
+American Urological Association Symptom Index,80883-2
+International Prostate Symptom Score,80976-4
+Cancer pathology panel,81186-9
+Dengue & Chikungunya & Zika virus panel,81154-7
+Amitriptyline & nortriptyline panel,81207-3
+Amitriptyline & nortriptyline panel,81208-1
+clomiPRAMINE & Norclomipramine panel,81209-9
+clomiPRAMINE & Norclomipramine panel,81210-7
+Amitriptyline & nortriptyline panel,81211-5
+clomiPRAMINE & Norclomipramine panel,81212-3
+Referral note - recommended C-CDA R2.0 & R2.1 sections,81223-0
+Consultation note - recommended C-CDA R2.0 & R2.1 sections,81222-2
+Transfer summary note - recommended C-CDA R2.0 sections,81221-4
+Diagnostic imaging report - recommended C-CDA R2.0 & R2.1 sections,81220-6
+Discharge summary - recommended C-CDA R2.0 sections,81219-8
+Discharge summary - recommended C-CDA R2.1 sections,81218-0
+Procedure note - recommended C-CDA R2.0 & R2.1 sections,81217-2
+Progress note - recommended C-CDA R2.0 & R2.1 sections,81216-4
+Care plan - recommended C-CDA R2.0 & R2.1 sections,81215-6
+Continuity of Care Document - recommended C-CDA R2.0 & R2.1 sections,81214-9
+Protein fractions panel,81231-3
+Varicella zoster virus Ab.IgG & IgM panel,81234-7
+Interval document - recommended CDP Set 1 R1.0 & R1.1 sections,81245-3
+Enhanced procedure note - recommended CDP Set 1 R1.0 & R1.1 sections,81244-6
+Enhanced encounter note - recommended CDP Set 1 R1.0 & R1.1 sections,81243-8
+Enhanced discharge summary - recommended CDP Set 1 R1.0 sections,81242-0
+Enhanced surgical operation note - recommended CDP Set 1 R1.0 & R1.1 sections,81241-2
+Master HL7 genetic variant reporting panel,81247-9
+Document template attachment request modifier codes,81240-4
+Heparin dose response panel,81281-8
+Urine collection associated observations panel,81323-8
+Cryoglobulin IgA & IgG & IgM & C3 panel,81205-7
+Supersaturation panel,81232-1
+Differential panel,81280-0
+Cell Count & Differential panel,81272-7
+Fentanyl & Norfentanyl panel,81273-5
+Fentanyl & Norfentanyl panel,81275-0
+Fentanyl & Norfentanyl panel,81277-6
+Doxepin & Nordoxepin panel,81276-8
+Doxepin & Nordoxepin panel,81274-3
+Meperidine & Normeperidine panel,81279-2
+Meperidine & Normeperidine panel,81278-4
+Glucose tolerance 2H gestational panel,81324-6
+PROMIS short form - cognitive function 8a - version 2.0,81530-8
+PROMIS short form - cognitive function 6a - version 2.0,81529-0
+PROMIS short form - cognitive function 4a - version 2.0,81528-2
+PROMIS short form - cognitive function - abilities subset 8a - version 2.0,81527-4
+PROMIS short form - cognitive function - abilities subset 6a - version 2.0,81526-6
+PROMIS short form - cognitive function - abilities subset 4a - version 2.0,81525-8
+PROMIS item bank - cognitive function - version 2.0,81524-1
+PROMIS item bank - cognitive function - abilities subset - version 2.0,81492-1
+Pulmonary function test panel,81458-2
+Enhanced discharge summary - recommended CDP Set 1 R1.1 sections,81615-7
+Influenza virus types A & B & subtypes RNA panel,81233-9
+Escherichia coli Stx1 & Stx2 toxin stx1 & stx2 genes panel,81659-5
+CYP3A4 & CYP3A5 gene targeted mutation analysis panel,81642-1
+Immunoglobulin light chains.free panel,81632-2
+Personal advance care plan R1.0 - recommended CDA sections,81745-2
+Preoperative measures for patient safety panel,81679-3
+Percutaneous coronary intervention panel,78914-9
+Catheterization & angiography preoperative information panel,80528-3
+Lymphocyte T-cell & B-cell & Natural killer subsets panel,80721-4
+T-cell naive & memory & effector (CD27 and CD45RA) subsets panel,80720-6
+Lymphocyte TCR gamma delta & alpha beta subsets panel,80718-0
+B-cell CD27 & IgD subsets panel,80717-2
+T-cell activated (CD38+HLA-DR+) subsets panel,80716-4
+Microsatellite instability marker panel,81711-4
+Composite triage and nursing note - recommended IHE set,81898-9
+National health care surveys report R1 - recommended CDA set,81958-1
+Public health laboratory ask at order entry panel,81959-9
+Phytanate & pristanate panel,81763-5
+BRFSS Adverse Childhood Experience Module,82152-0
+Herpes simplex virus 1 & 2 Ab.IgG panel,81621-5
+Differential panel,81620-7
+HIV 2 RNA panel,81246-1
+Varicella zoster virus surveillance panel,81235-4
+Gastrointestinal pathogens DNA & RNA panel,82195-9
+Meningitis+Encephalitis pathogens panel,82180-1
+Respiratory pathogens DNA & RNA panel,82159-5
+Neck Disability Index,82226-2
+Physical activity panel,82287-4
+Metabolic equivalent of task & Resting metabolic rate panel,82259-3
+Vendor device information panel,82307-0
+Oncology plan of care and summary - recommended CDA R1.2 sections,82308-8
+Knee injury and osteoarthritis outcome score for joint replacement,82324-5
+Hip dysfunction and osteoarthritis outcome score for joint replacement,82316-1
+Level 3 emergency medical services patient care report - recommended CDA R1 & R2 sections,82315-3
+Ganglioside Ab panel,82455-7
+Ganglioside Ab panel,82454-0
+Human papilloma virus 16 & 18+45 E6+E7 mRNA panel,82457-3
+Hepatitis C virus genotype & drug resistance panel,82525-7
+Dengue virus 1+3 & 2+4 panel,82519-0
+Borderline symptom list - behavior supplement,72718-0
+Borderline symptom list - 23 item,72719-8
+Cardiac nuclear imaging panel,82654-5
+Wearable device external physiologic monitoring panel,82611-5
+Drug Abuse Screening Test-10,82666-9
+Drug Abuse Screening Test,82664-4
+Asthma Control Test,82674-3
+Cytokines panel,82335-1
+Nurse summary note - recommended sections,82811-1
+Methotrexate polyglutamates 1-5 & total panel,81630-6
+Adverse Childhood Experiences,82813-7
+Amyotrophic lateral sclerosis functional rating scale - revised (ALSFRS-R),82954-9
+HEDIS 2017 Value Sets,82955-6
+HIV 1+2 Ab & HIV1 p24 Ag panel,83101-6
+Natural killer cell cytotoxicity panel,82720-4
+Grip Strength Test,83145-3
+4-Meter Walk Gait Speed Test,83144-6
+2-Minute Walk Endurance Test,83143-8
+Standing Balance Test,83142-0
+9-Hole Pegboard Dexterity Test,83141-2
+Self-care activities - functional ability panel,83180-0
+6-Thioguanine & 6-methylmercaptopurine panel,82869-9
+Campylobacter jejuni Ab.IgA & IgG & IgM panel,82845-9
+Inpatient Rehabilitation Facility - Patient Assessment Instrument - version 1.4,83265-9
+Patient Centered Assessment Method panel,83331-9
+Picture Vocabulary Test - English,84438-1
+Picture Sequence Memory Test,84437-3
+Pattern Comparison Processing Speed Test,84436-5
+Oral Reading Recognition Test,84435-7
+List Sorting Working Memory Test,84434-0
+Flanker Inhibitory Control and Attention Test,84433-2
+Dimensional Change Card Sort Test,84432-4
+Bone density quantitative measurement panel,83311-1
+Gastrointestinal pathogens panel,82305-4
+Spatial clot growth analysis panel,82799-8
+Positive Affect Survey - CAT item bank - ages 18+,84799-6
+Positive Affect Survey - fixed length form - ages 18+,84800-2
+Positive Affect Survey version 2.0 - CAT item bank - ages 13-17,84801-0
+Positive Affect Survey version 2.0 - fixed length form - ages 13-17,84910-9
+Friendship Survey - fixed length form - ages 18+,84932-3
+Friendship Survey version 2.0 - fixed length form - ages 8-17,84933-1
+Instrumental Support Survey - fixed length form - ages 18+,84956-2
+Loneliness Survey - fixed length form - ages 18+,84957-0
+Loneliness Survey version 2.0 - fixed length form - ages 8-17,84958-8
+General Life Satisfaction Survey - CAT item bank - ages 18+,85022-2
+General Life Satisfaction Survey - fixed length form A - ages 18+,85016-4
+General Life Satisfaction Survey - fixed length form B - ages 18+,85013-1
+General Life Satisfaction Survey version 2.0 - CAT item bank - ages 8-12,85019-8
+General Life Satisfaction Survey version 2.0 - parent report - fixed length form- ages 3-12,85009-9
+Emotional Support Survey - fixed length form - ages 18+,85032-1
+Cancer pathology panel,84907-5
+Cancer pathology panel,84908-3
+HIV 1 & 2 Ab & HIV 1 p24 Ag panel,85037-0
+Staphylococcus aureus glycopeptide resistance panel,85044-6
+PCORnet common data model set - version 3.0,85057-8
+Emotional Support Survey version 2.0 - fixed length form - ages 8-17,85029-7
+Somatotropin monitoring panel,85038-8
+Maprotiline & normaprotiline panel,85088-3
+Dothiepin & nordothiepin & dothiepin sulfoxide panel,85089-1
+Citalopram & norcitalopram & didesmethylcitalopram panel,85090-9
+Liver diseases autoimmune Ab.IgG panel,85092-5
+Escitalopram & norescitalopram panel,85094-1
+Meta methylhippurate & ortho methylhippurate & para methylhippurate & Creatinine panel,85097-4
+Bipolar Spectrum Diagnostic Scale,85103-0
+Mood Disorder Questionnaire,85102-2
+Fear-Over Anxious Survey version 2.0 - parent report - fixed length form - ages 3-7,85124-6
+Positive Peer Interaction Survey version 2.0 - parent report - fixed length form - ages 3-12,85109-7
+Social Withdrawal Survey version 2.0 - parent report - fixed length form - ages 3-12,85112-1
+Anger-Affect Survey - CAT item bank - age 18+,85105-5
+Peer Rejection Survey version 2.0 - parent report - fixed length form - ages 3-12,85106-3
+Positive Affect Survey version 2.0 - parent report - CAT item bank - ages 3-7,85115-4
+Sadness Survey version 2.0 - parent report - fixed length form - ages 3-7,85118-8
+Fear-Separation Anxiety Survey version 2.0 - parent report - fixed length form - ages 3-7,85121-2
+Meaning and Purpose Survey - CAT item bank - age 18+,85146-9
+Self-Efficacy Survey version 2.0 - CAT item bank - ages 8-12,85127-9
+General Life Satisfaction Survey version 2.0 - CAT item bank - ages 13-17,85133-7
+Sadness Survey - CAT item bank - age 18+,85140-2
+Positive Affect Survey version 2.0 - fixed length form - ages 8-12,85135-2
+Sadness Survey version 2.0 - fixed length form - ages 8-17,85136-0
+Fear Survey version 2.0 - fixed length form - ages 8-17,85143-6
+National EMS Information System - version 3 set,84428-2
+Level 3 emergency medical services patient care report - recommended CDA R1 & R2 set,84429-0
+"Vital signs, weight, height, head circumference, oxygen saturation & BMI panel",85353-1
+Porcine epidemic diarrhea virus prototype & S INDEL strain S gene panel,85357-2
+Diagnostic imaging report - example sections & entries,85430-7
+Bacterial identification & susceptibility panel,85421-6
+Electronic Patient Centered Assessment Method panel,85554-4
+Influenza virus A & B & Respiratory syncytial virus RNA panel,85476-0
+Renal replacement therapy goals panel,85597-3
+Kidney failure 2Y & 5Y risk panel,85626-0
+PROMIS short form - global - version 1.2,85524-7
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - version 3.00,85654-2
+Congenital rubella case report panel,85735-9
+Rubella surveillance panel,85701-1
+Porcine reproductive and respiratory syndrome virus European & North American strains Ab.Neut panel,85551-0
+Porcine reproductive and respiratory syndrome virus European & North American strains Ab.IgG panel,85586-6
+Bacterial carbapenem resistance genes panel,85502-3
+Cancer pathology panel,85905-8
+Cancer pathology panel,85904-1
+Diagnostic mammogram & ultrasound panel,86359-7
+Diagnostic mammogram & ultrasound panel,86349-8
+Retinal nerve fiber layer panel,86291-2
+Bordetella pertussis & parapertussis & holmesii DNA panel,85809-2
+Mumps virus RNA & SH gene panel,85808-4
+Measles virus RNA & N gene panel,85806-8
+Neisseria meningitidis serogroup DNA panel,85797-9
+Rubella virus E1 gene & genotype panel,85795-3
+Blood pathogens panel,85762-3
+Pediatric autoimmune neuropsychiatric disorder associated with streptococcus diagnosis panel,82741-0
+These questions three panel,86504-8
+Minimum Data Set (MDS) - version 3.0 - Resident Assessment Instrument (RAI) version 1.14.1,86521-2
+Periodontal attachment - recommended CDA R1 set,86603-8
+Staphylococcus aureus methicillin resistance SCCmec & mecA+mecC genes panel,86622-8
+Healthcare associated infection report - recommended CDA R3 set,86535-2
+U.S. standard certificate of death - recommended 2003 revision set,86345-6
+U.S. standard certificate of live birth - recommended 2003 revision set,86347-2
+U.S. standard report of fetal death - recommended 2003 revision set,86346-4
+Family planning report - FPAR 2.0 set,86636-8
+Coded cause of death - recommended CDA R1 sections,86799-4
+Coded race and ethnicity - recommended CDA R1 sections,86800-0
+Jurisdiction death information - recommended CDA R1 sections,86801-8
+Provider death registration - recommended CDA R1 sections,86803-4
+Adenovirus serotype DNA panel,85810-0
+Resting metabolic rate panel,82279-1
+Therapeutic goals panel,86922-2
+Kansas City Cardiomyopathy Questionnaire - 12 item,86923-0
+Outcome and assessment information set (OASIS) form - version C2,86905-7
+"Metanephrine, Normetanephrine & Creatinine panel",86931-3
+Patient Activation Measure - 13,86933-9
+Patient Activation Measure - 10,86946-1
+Trichomonas vaginalis & Mycoplasma genitalium DNA panel,86949-5
+Borrelia afzelii+burgdorferi+garinii Ab.IgG & IgM panel,87274-7
+Inpatient Rehabilitation Facility - Patient Assessment Instrument - version 1.5,87414-9
+Diagnostic imaging report - recommended DICOM PS3.20 sections,87416-4
+Cytolethal distending toxin B & Vinculin Ab panel,87417-2
+Dengue virus 1+2+3+4 & Zika virus Ab.IgA+IgG+IgM panel,87441-2
+Coccidioides immitis Ab.IgG & IgM panel,87435-4
+Protein & creatinine panel,87434-7
+Hemoglobin.free & oxyhemoglobin panel,87433-9
+Mycophenolate & mycophenolate glucuronide panel,87432-1
+Herpes simplex virus 1 & 2 DNA panel,87431-3
+Cystatin C & Glomerular filtration rate by Cystatin C-based formula panel,87430-5
+Cortisol AM & PM panel,87429-7
+Drugs of abuse screen W Reflex confirm panel,87428-9
+Neutrophil cytoplasmic Ab panel,87427-1
+Inhibin A & B panel,87426-3
+Cytomegalovirus Ab.IgG & IgM Panel,87424-8
+Borrelia burgdorferi Ab.IgG & IgM panel,87423-0
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - version 4.00,87505-4
+Chronic kidney disease management personal goals panel,87533-6
+Challenges for treatment plan maintenance panel,87534-4
+Chlorinated hydrocarbon panel,87669-8
+Carbamate panel,87670-6
+Parent Patient Activation Measure - 13,87675-5
+Parent Patient Activation Measure - 10,87689-6
+Caregiver Patient Activation Measure - 13,87703-5
+Caregiver Patient Activation Measure - 10,87704-3
+HEDIS 2018 Value Sets,87625-0
+National Trauma Data Standard - version 2018 set,87825-6
+Protein S Ag & protein S Ag.free panel,87557-5
+Thyroglobulin & thyroperoxidase Ab panel,87556-7
+Sjogrens syndrome-A & B extractable nuclear Ab.IgG panel,87555-9
+Epstein Barr virus Ab panel,87554-2
+Aspergillus fumigatus & Saccharopolyspora rectivirgula & Thermoactinomyces vulgaris Ab.IgG panel,87553-4
+IgA & IgA subclass 1 & IgA subclass 2 panel,87552-6
+Neutrophil cytoplasmic Ab.IgG & Saccharomyces cerevisiae Ab.IgA & IgG,87551-8
+Haloperidol & haloperidol.reduced panel,87550-0
+"1,25-Dihydroxyvitamin D & 1,25-Dihydroxyvitamin D2 & 1,25-Dihydroxyvitamin D3 panel",87549-2
+Anaplasma phagocytophilum & Ehrlichia sp groEL gene panel,87548-4
+Borrelia burgdorferi Ab & Anaplasma phagocytophilum & Babesia microti & Ehrlichia chaffeensis Ab.IgG panel,87547-6
+Dengue virus Ab.IgG & IgM panel,87546-8
+Beta-N-acetylhexosaminidase.A & beta-N-acetylhexosaminidase with reflex to HEXA gene panel,87543-5
+Beta-N-acetylhexosaminidase.A & beta-N-acetylhexosaminidase panel,87544-3
+Beta-N-acetylhexosaminidase.A & beta-N-acetylhexosaminidase panel,87545-0
+Tobacco use panel,88028-6
+Organophosphate panel,88032-8
+Respiratory pathogens panel,87964-3
+Bacterial susceptibility panel,87927-0
+Escherichia coli gene panel,88116-9
+Escherichia coli enterotoxigenic gene panel,88125-0
+Hunger Vital Sign,88121-9
+Ebola & Marburg virus RNA panel,88186-2
+Chronic kidney disease education panel,88240-7
+Respiratory pathogens panel,88137-5
+Respiratory pathogens panel,88129-2
+Acute & chronic leukemia fusion transcript per control transcript panel,72104-3
+Gram positive blood culture panel,88262-1
+Gram negative blood culture panel,88260-5
+Minimum Data Set (MDS) - version 3.0 - Resident Assessment Instrument (RAI) version 1.15.1,88278-7
+Inpatient Rehabilitation Facility - Patient Assessment Instrument - version 2.0,88329-8
+Microscopic exam panel,88345-4
+Outcome and assessment information set (OASIS) form - version D,88372-8
+Chemotherapy infusion start & stop date and time panel,88374-4
+International Physical Activity Questionnaire self-administered long form,88379-3
+International Physical Activity Questionnaire telephone short form,88412-2
+International Physical Activity Questionnaire telephone long form,88434-6
+Blood pressure with exercise & post exercise panel,88346-2
+California encephalitis virus Ab.IgG & IgM panel,88455-1
+Mumps virus Ab.IgG & IgM panel,88458-5
+Seattle Angina Questionnaire - 7 items,88479-1
+Babesia microti & divergens+MO-1 strain & duncani 18S rRNA gene panel,88461-9
+Ocular pathogens panel,88569-9
+Influenza virus A & B RNA panel,88601-0
+German Interdisciplinary Association of Intensive Care and Emergency Care Medicine - recommended MIND protocol set,88677-0
+Systemic sclerosis panel,88702-6
+Babesia microti Ab.IgG & IgM panel,88728-1
+Norovirus genogroups I & II RNA panel,88701-8
+Procainamide & N-acetylprocainamide panel,88699-4
+Electrolytes & Osmolality panel,88697-8
+Protein fractions panel,88698-6
+Toxoplasma gondii Ab.IgG & IgM panel,88746-3
+Coccidioides immitis Ab.IgG & IgM panel,88745-5
+Microbiology CNAMTS panel,88836-2
+Microbiology CNAMTS panel,88837-0
+Microbiology CNAMTS panel,88838-8
+Microbiology CNAMTS panel,88839-6
+Microbiology CNAMTS panel,88840-4
+Microbiology CNAMTS panel,88841-2
+Microbiology CNAMTS panel,88842-0
+Microbiology CNAMTS panel,88844-6
+Microbiology CNAMTS panel,88845-3
+Urinary cell count CNAMTS panel,88846-1
+Microbiology CNAMTS panel,88847-9
+Microbiology CNAMTS panel,88848-7
+Microbiology CNAMTS panel,88849-5
+Microbiology CNAMTS panel,88850-3
+PROMIS item bank - applied cognition - abilities subset - version 1.0,88852-9
+Hematopoietic stem cell transplantation risk panel,88861-0
+Microbiology CNAMTS panel,88864-4
+Veterinary toxicology panel,88869-3
+Veterinary toxicology panel,88868-5
+Minimum Data Set (MDS) - version 3.0 - Resident Assessment Instrument (RAI) version 1.16.1,88956-8
+Clinical disease activity index,75842-5
+Pure tone threshold audiometry panel,89015-2
+Basic metabolic & albumin panel,89044-2
+ADAPTABLE patient reported item set,89070-7
+Everyday Cognition - Participant Self Report Form,89133-3
+Everyday Cognition - Study Partner Report Form,89090-5
+Beck Depression Inventory Fast Screen,89211-7
+Beck Depression Inventory II,89210-9
+Patient Health Questionnaire-9: Modified for Teens,89206-7
+Center for Epidemiologic Studies Depression Scale-Revised,89207-5
+Performance status panel,89244-8
+Performance status panel,89246-3
+Special circumstances associated observations panel,89263-8
+Lung cancer antibody panel,88863-6
+Zika virus non-structural protein 1 Ab.IgM panel,89368-5
+HIV 1 & 2 Ab panel,89365-1
+Timed Up and Go test & physical findings of gait panel,89422-0
+Rose Dyspnea Scale panel,89440-2
+Mycobacterial susceptibility panel,89486-5
+Laboratory ask at order entry panel,89543-3
+Fatty acid omega-3 & omega-6 panel,88884-2
+Metabolic panel.dialysis patient,88843-8
+Wells pulmonary embolism risk calculator panel,89546-6
+Revised Geneva Score panel,89549-0
+Pulmonary Embolism Rule-out Criteria panel,89544-1
+Mycobacterium tuberculosis complex DNA & rpoB gene rifAMPin resistance mutation panel,89371-9
+Comprehensive Universal Behavior Health Screen,89556-5
+Connective tissue autoimmune Ab panel,88883-4
+Exercise Vital Sign (EVS),89574-8
+Troponin I.cardiac panel,89577-1
+Troponin T.cardiac panel,89576-3
+PROMIS cancer item bank - physical function - version 1.1,89689-4
+PROMIS cancer item bank - emotional distress - anxiety - version 1.0,89679-5
+PROMIS cancer item bank - fatigue - version 1.0,89677-9
+PROMIS cancer item bank - pain interference - version 1.1,89674-6
+PROMIS cancer item bank - emotional distress - depression - version 1.0,89670-4
+PROMIS item bank - physical function w mobility aids - version 1.0,79062-6
+PROMIS short form - physical function w mobility aids - version 1.0,79063-4
+Pulmonary Embolism Severity Index panel,89694-4
+Patient-Oriented Eczema Measure,89862-7
+Mycobacterium tuberculosis complex rifAMPin & isoniazid resistance panel,89876-7
+Chronic Respiratory Questionnaire Self-Administered Individualized Format,89906-2
+Chronic Respiratory Questionnaire Self-Administered Standardized Format,89905-4
+Minimum Data Set (MDS) for Public Health Emergency Operations Centers (EOC),89724-9
+PROMIS item bank - anger - version 1.1,89920-3
+PROMIS item bank - pain interference - version 1.1,89923-7
+PROMIS pediatric item bank - pain interference - version 2.0,89935-1
+PROMIS parent proxy item bank - pain interference - version 2.0,89949-2
+Inpatient Rehabilitation Facility - Patient Assessment Instrument - version 3.0,89963-3
+Psoriasis care satisfaction questionnaire,90018-3
+Routine Assessment of Patient Index Data 3,90028-2
+Health assessment questionnaire,71950-0
+PROMIS parent proxy item bank - cognitive function - version 1.0,90170-2
+PROMIS pediatric item bank - cognitive function - version 1.0,90217-1
+Clinically Useful Depression Outcome Scale,90222-1
+Histoplasma capsulatum H & M Ab panel,90227-0
+Myeloperoxidase Ab.IgG & Proteinase 3 Ab.IgG Panel,90230-4
+Extractable nuclear antigen Ab.IgG panel,90228-8
+Herpes simplex virus 1 & 2 Ab.IgG & IgM panel,90229-6
+Coagulation factor VII activity & inhibitor panel,90225-4
+Nicotine & Cotinine panel,90226-2
+Thymoma & myasthenia gravis antibody panel,90231-2
+Thyroxine & Thyroxine.free panel,90224-7
+Bartonella henselae & Bartonella quintana Ab.IgG & IgM panel,90251-0
+Measles virus Ab.IgG & IgM panel,90253-6
+Measles virus Ab.IgG & IgM panel,90254-4
+Vanillylmandelate & Homovanillate panel,90250-2
+Rickettsia spotted fever group Ab.IgG & IgM panel,90260-1
+Fracture Risk Assessment,90264-3
+PROMIS item bank - dyspnea functional limitations - version 1.0,90409-4
+T-cell regulatory subsets panel,90413-6
+B-cell phenotyping panel,90414-4
+B-cell TACI & BAFF-R subsets panel,90415-1
+Lymphocyte subset & B-cell phenotyping panel,90416-9
+Transferrin.carbohydrate deficient & Apolipoprotein CIII panel,90417-7
+Microorganism preliminary growth detection panel,90425-0
+Microorganism preliminary growth detection panel,90424-3
+Microorganism preliminary growth detection panel,90423-5
+"Minimum Data Set (MDS) - version 3.0 - Resident Assessment Instrument (RAI) version 1.17.1, 1.17.2",90472-2
+Polysomnography panel,90568-7
+PROMIS parent proxy item bank - life satisfaction - version 1.0,90615-6
+PROMIS pediatric item bank - life satisfaction - version 1.0,90616-4
+PROMIS pediatric item bank - peer relationships - version 2.0,90706-3
+PROMIS parent proxy item bank - mobility - version 2.0,90704-8
+PROMIS parent proxy item bank - peer relationships - version 2.0,90679-2
+PROMIS item bank - applied cognitive - general concerns - version 1.0,90761-8
+HEDIS 2019 Value Sets,90766-7
+Youth Risk Behavior Survey - body weight panel,90744-4
+Paroxysmal nocturnal hemoglobinuria GPI-Linked WBC & RBC Ag Panel,90735-2
+Duke Anxiety Depression Scale,90854-1
+PROMIS pediatric item bank - mobility - version 2.0,90883-0
+PROMIS parent proxy short form - cognitive function 7a - version 1.0,90934-1
+PROMIS parent proxy short form - life satisfaction 4a - version 1.0,90936-6
+PROMIS parent proxy short form - life satisfaction 8a - version 1.0,90938-2
+PROMIS parent proxy short form - mobility 8a - version 2.0,90940-8
+PROMIS parent proxy short form - pain interference 8a - version 2.0,90942-4
+PROMIS parent proxy short form - peer relationship 7a - version 2.0,90944-0
+PROMIS pediatric short form - cognitive function 7a - version 1.0,90933-3
+PROMIS pediatric short form - depressive symptoms 8a - version 2.0,90949-9
+PROMIS pediatric short form - life satisfaction 4a - version 1.0,90951-5
+PROMIS pediatric short form - life satisfaction 8a - version 1.0,90953-1
+PROMIS pediatric short form - mobility 8a - version 2.0,90955-6
+PROMIS pediatric short form - pain interference 8a - version 2.0,90957-2
+PROMIS pediatric short form - peer relationships 8a - version 2.0,90959-8
+PROMIS short form - applied cognition - general concerns 4a - version 1.0,90961-4
+PROMIS short form - applied cognition - general concerns 6a - version 1.0,90963-0
+PROMIS short form - applied cognition - general concerns 8a - version 1.0,90965-5
+PROMIS short form - dyspnea functional limitations 10a - version 1.0,90967-1
+PROMIS short form - emotional distress - anger 5a - version 1.1,90969-7
+PROMIS short form - pain interference 4a - version 1.0,90971-3
+PROMIS short form - pain interference 6a - version 1.0,90973-9
+Pressure Injury Scale for Healing Tool 3.0,90982-0
+Drugs of abuse panel,91056-2
+Drugs of abuse panel,91055-4
+Drugs of abuse panel,91054-7
+Protein electrophoresis & monoclonal protein isotype panel,90991-1
+Monoclonal gammopathy panel,90992-9
+Iothalamate clearance panel,90993-7
+Benzodiazepines panel,90890-5
+Borrelia sp panel,90892-1
+Sexually transmitted pathogens panel,91134-7
+Platelet function with adenosine diphosphate induction panel,91124-8
+Thiopurine methyltransferase activity panel,91139-6
+Brucella sp Ab.IgG & IgM panel,91140-4
+"Pain intensity, Enjoyment of life, General activity scale",91148-7
+Lipoprotein metabolism panel,91136-2
+Vedolizumab & Vedolizumab Ab Panel,90794-9
+Levothyroxine absorption panel,90795-6
+Influenza virus A & B RNA panel,90455-7
+Influenza virus A & B RNA panel,90456-5
+Influenza virus A & B RNA panel,90457-3
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,90357-5
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,90358-3
+Cystinuria panel,90785-7
+Cystinuria panel,90784-0
+Fatty acid omega-3 & omega-6 panel,90918-4
+Bordetella pertussis & Bordetella parapertussis DNA panel,90441-7
+Atypical pneumonia pathogens panel,90439-1
+Liver cancer antibodies & Alpha-1-Fetoprotein panel,90293-2
+Transfer summary note - recommended C-CDA R2.1 sections,81614-0
+PROMIS parent proxy item bank - physical activity - version 1.0,91215-4
+PROMIS pediatric item bank - physical activity - version 1.0,91228-7
+PROMIS parent proxy item bank - positive affect - version 1.0,91307-9
+STarT Back Screening Tool panel,91349-1
+PROMIS pediatric item bank - positive affect - version 1.0,91355-8
+PROMIS parent proxy item bank - psychological stress experiences - version 1.0,91367-3
+PROMIS pediatric item bank - psychological stress experiences - version 1.0,91324-4
+Opioid risk tool panel,91393-9
+PROMIS parent proxy item bank - strength impact - version 1.0,91338-4
+PROMIS pediatric item bank - strength impact - version 1.0,91512-4
+PROMIS parent proxy item bank - asthma impact - version 2.0,91426-7
+PROMIS parent proxy item bank - depressive symptoms - version 2.0,91407-7
+PROMIS pediatric item bank - physical stress experiences - version 1.0,91452-3
+PROMIS pediatric item bank - meaning and purpose - version 1.0,91454-9
+PROMIS pediatric item bank - fatigue - version 2.0,91534-8
+PROMIS pediatric item bank - depressive symptoms - version 2.0,91536-3
+PROMIS pediatric item bank - asthma impact - version 2.0,91538-9
+PROMIS pediatric item bank - anxiety - version 2.0,91540-5
+Duke Treadmill Score panel,91550-4
+General Well-Being Schedule - 18 item,91629-6
+Medical Outcomes Study Social Support Survey panel,91642-9
+PROMIS item bank - upper extremity - version 2.0,91611-4
+Mood and Feelings Questionnaire Adult self-report short form,91689-0
+Mood and Feelings Questionnaire Adult self-report long form,91688-2
+Corticotropin post corticotropin releasing hormone stimulation panel,91707-0
+PROMIS item bank - mobility - version 2.0,91613-0
+PROMIS item bank - physical function - version 2.0,91722-9
+Anaplasma phagocytophilum & Ehrlichia chaffeensis DNA panel,91899-5
+Primary contact information panel,91704-7
+Organization contact information panel,90055-5
+PROMIS parent proxy item bank - fatigue - version 2.0,91933-2
+PROMIS pediatric item bank - pain behavior - version 1.0,91936-5
+Self-Efficacy Survey version 2.0 - CAT item bank - ages 13-17,91530-6
+Positive Affect Survey version 2.0 - parent report - fixed length form - ages 3-7,84802-8
+PROMIS parent proxy item bank - anxiety - version 2.0,91988-6
+PROMIS parent proxy item bank - physical stress experiences - version 1.0,92077-7
+PROMIS parent proxy item bank - meaning purpose - version 1.0,92080-1
+PROMIS item bank - dyspnea severity - version 1.0,92148-6
+PROMIS item bank - smoking - coping expectancies for all smokers - version 1.0,92214-6
+Microorganism identification & resistance pattern determination panel,92254-2
+PROMIS item bank - smoking - emotional and sensory expectancies for all smokers - version 1.0,92226-0
+PROMIS item bank - smoking - negative health expectancies for all smokers - version 1.0,92267-4
+PhenX - house rules about tobacco use protocol 711101,92280-7
+PROMIS item bank - smoking - nicotine dependence for all smokers - version v1.0,92306-0
+PROMIS item bank - smoking - negative psychosocial expectancies for all smokers - version 1.0,92297-1
+PROMIS item bank - smoking - social motivations for all smokers - version 1.0,92324-3
+Personnel contact information panel,91003-4
+PROMIS item bank - self-efficacy for managing daily activities - version 1.0,92392-0
+PROMIS item bank - self-efficacy for managing emotions - version 1.0,92330-0
+PROMIS item bank - self-efficacy for managing medications and treatments - version 1.0,92419-1
+PROMIS item bank - self-efficacy for managing social interactions - version 1.0,92394-6
+PROMIS item bank - self-efficacy for managing symptoms - version 1.0,92449-8
+Blood group Ag & Hemoglobin S inferred phenotype panel,92514-9
+Blood group Ag & Hemoglobin S inferred phenotype panel,92552-9
+Maternal discharge summary - recommended IHE set,92576-8
+Labor and delivery admission history and physical - recommended IHE set,92575-0
+Labor and delivery summary - recommended IHE set,92574-3
+PROMIS parent proxy short form - anxiety 8a - version 2.0,92586-7
+PROMIS parent proxy short form - fatigue 10a - version 2.0,92587-5
+PROMIS pediatric short form - pain behavior 8a - version 1.0,92581-8
+PROMIS parent proxy short form - meaning and purpose 4a - version 1.0,92583-4
+PROMIS parent proxy short form - meaning and purpose 8a - version 1.0,92582-6
+PROMIS parent proxy short form - physical stress experiences 4a - version 1.0,92585-9
+PROMIS parent proxy short form - physical stress experiences 8a - version 1.0,92584-2
+PROMIS short form - self-efficacy for managing emotions 4a - version 1.0,92595-8
+PROMIS short form - self-efficacy for managing emotions 8a - version 1.0,92594-1
+PROMIS short form - self-efficacy for managing medications and treatments 4a - version 1.0,92593-3
+PROMIS short form - self-efficacy for managing medications and treatments 8a - version 1.0,92592-5
+PROMIS short form - self-efficacy for managing social interactions 4a - version 1.0,92591-7
+PROMIS short form - self-efficacy for managing social interactions 8a - version 1.0,92590-9
+PROMIS short form - self-efficacy for managing symptoms 4a - version 1.0,92589-1
+PROMIS short form - self-efficacy for managing symptoms 8a - version 1.0,92588-3
+PROMIS short form - self-efficacy for managing daily activities 4a - version 1.0,92597-4
+PROMIS short form - self-efficacy for managing daily activities 8a - version 1.0,92596-6
+PROMIS short form - smoking - coping expectancies for all smokers 4a - version 1.0,92604-8
+PROMIS short form - smoking - emotional and sensory expectancies for all smokers 6a - version 1.0,92603-0
+PROMIS short form - smoking - negative health expectancies for all smokers 6a - version 1.0,92602-2
+PROMIS short form - smoking - nicotine dependence for all smokers 4a - version 1.0,92600-6
+PROMIS short form - smoking - nicotine dependence for all smokers 8a - version 1.0,92599-0
+PROMIS short form - smoking - negative psychosocial expectancies for all smokers 6a - version 1.0,92601-4
+PROMIS short form - smoking - social motivations for all smokers 4a - version 1.0,92598-2
+PROMIS short form - dyspnea severity 10a - version 1.0,92578-4
+PROMIS short form - physical function 10a - version 2.0,92580-0
+PROMIS short form - physical function 10b - version 2.0,92579-2
+PROMIS short form - upper extremity 7a - version 2.0,92605-5
+Chlamydia trachomatis & Neisseria gonorrhoeae & Trichomonas vaginalis DNA panel,92684-0
+Chlamydia trachomatis & Neisseria gonorrhoeae & Trichomonas vaginalis DNA panel,92683-2
+Vaginal pathogens panel,92703-8
+Lipoprotein subparticle profile panel,92722-8
+Hydroxyglutarates & Glutarate & Ethylmalonate & Methylsuccinate panel,92673-3
+Hydroxyglutarates & Glutarate & Ethylmalonate & Methylsuccinate panel,92672-5
+"Cholestane-3-beta, 5-alpha, 6-beta triol & Lyso-sphingomyelin panel",92741-8
+"Cholestane-3-beta, 5-alpha, 6-beta triol & Lyso-sphingomyelin panel",92738-4
+Oxysterols panel,92740-0
+"7-Alpha,12-alpha dihydroxycholest-4-en-3-one & 7-Alpha hydroxy-4-cholesten-3-one panel",92737-6
+"7-Alpha,12-alpha dihydroxycholest-4-en-3-one & 7-Alpha hydroxy-4-cholesten-3-one panel",92739-2
+"7-Alpha,12-alpha dihydroxycholest-4-en-3-one & 7-Alpha hydroxy-4-cholesten-3-one panel",92746-7
+Hepatosplenomegaly due to lysosomal storage disorders screening panel,92745-9
+Hepatosplenomegaly due to lysosomal storage disorders screening panel,92744-2
+Hepatosplenomegaly due to lysosomal storage disorders screening panel,92743-4
+Gram positive blood culture panel,92789-7
+Blood fungal pathogens panel,92805-1
+Borrelia afzelii+burgdorferi+garinii Ab.IgG panel,92815-0
+Glucose post glucagon stimulation panel,92820-0
+Growth hormone & glucose post cloNIDine stimulation panel,92666-7
+Respiratory pathogens DNA & RNA panel,92143-7
+Basement membrane zone BP180 & BP230 Ab.IgG panel,92671-7
+Candida sp & Gardnerella vaginalis & Trichomonas vaginalis DNA panel,92724-4
+Herpes simplex virus 1 & 2 & Varicella zoster virus DNA panel,92847-3
+Herpes simplex virus 1 & 2 & Varicella zoster virus DNA panel,92849-9
+Herpes simplex virus 1 & 2 & Varicella zoster virus DNA panel,92862-2
+Herpes simplex virus 1 & 2 & Varicella zoster virus DNA panel,92861-4
+Chlamydophila pneumoniae & Mycoplasma pneumoniae DNA panel,92860-6
+Chlamydophila pneumoniae & Mycoplasma pneumoniae DNA panel,92859-8
+Adenovirus & Bocavirus DNA panel,92853-1
+Adenovirus & Bocavirus DNA panel,92852-3
+Herpes simplex virus 1 & 2 DNA panel,92869-7
+Herpes simplex virus 1 & 2 DNA panel,92868-9
+Herpes simplex virus 1 & 2 DNA panel,92867-1
+Herpes simplex virus 1 & 2 DNA panel,92866-3
+Herpes simplex virus 1 & 2 DNA panel,92865-5
+Herpes simplex virus 1 & 2 DNA panel,92864-8
+Herpes simplex virus 1 & 2 DNA panel,92863-0
+Human coronavirus 229E+HKU1+NL63+OC43 & Parainfluenza virus 1+2+3+4 RNA panel,92877-0
+Human coronavirus 229E+HKU1+NL63+OC43 & Parainfluenza virus 1+2+3+4 RNA panel,92876-2
+Human metapneumovirus & Respiratory syncytial virus RNA panel,92881-2
+Human metapneumovirus & Respiratory syncytial virus RNA panel,92880-4
+Influenza virus A & B RNA panel,92882-0
+Hepatitis B virus core Ab & surface and little e Ab & Ag panel,92898-6
+Hepatitis A & B & C virus immunity &or previous exposure panel,92890-3
+Chronic hepatitis differentiation between B & C virus panel,92889-5
+Measles & Mumps & Rubella virus Ab.IgG panel,92929-9
+Catecholamines 3 panel,92938-0
+PhenX - body proportions protocol 220201,93000-8
+Scale for the Assessment and Rating of Ataxia,93016-4
+"Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences",93025-5
+Multiple myeloma minimal residual disease panel,93022-2
+Noninvasive prenatal fetal aneuploidy and microdeletion panel,92901-8
+Respiratory pathogens DNA & RNA panel,92958-8
+Giardia lamblia & Cryptosporidium parvum Ag panel,91675-9
+Histoplasma capsulatum H & M Ab & Blastomyces dermatitidis Ab panel,91683-3
+Histoplasma capsulatum H & M Ab panel,91684-1
+Outcome and assessment information set (OASIS) form - version D1,93055-2
+Nulliparous Pregnancy Outcomes Study Monitoring Mothers-to-Be Difficulties in Pregnancy form,93084-2
+Revised Prenatal Distress Questionnaire - Concurrent Self-Administered Version,93083-4
+Quality of Working Life Questionnaire for Cancer Survivors,93088-3
+New York Heart Association Functional Classification,93124-6
+Inpatient Rehabilitation Facility - Patient Assessment Instrument - version 4.0,93128-7
+PhenX - bone age protocol 220301,93149-3
+Bone age assessment - Tanner-Whitehouse (TW2) associated observations panel,93187-3
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - version 5.00,93223-6
+Columbia - suicide severity rating scale - lifetime recent,93245-9
+Warfarin response genotype panel,93196-4
+PT mixing study panel,93321-8
+Platelet glycoprotein disorder panel,93320-0
+Neutrophil CD64 & Monocyte HLA DR panel,93354-9
+Columbia - suicide severity rating scale screener - recent,93373-9
+Gram negative blood culture panel,93407-5
+PhenX - complete blood count protocol 220501,93340-8
+Alpha 1 antitrypsin fecal clearance panel,93419-0
+Synthetic opioids panel,93474-5
+Emergency contact information panel,56796-6
+Cortisol post corticotropin releasing hormone stimulation panel,93480-2
+Columbia - suicide severity rating scale - very young child or cognitively impaired - lifetime recent,93485-1
+Home accessibility modification panel,93666-6
+WellRx Questionnaire - revised,93667-4
+Large B-cell lymphoma classification panel,93785-4
+Diffuse large B-Cell lymphoma cell of origin subclassification panel,93784-7
+Glucose tolerance & insulin sensitivity 2H panel,93794-6
+Bile acid panel,93338-2
+Plasma cell DNA content & proliferation panel,93363-0
+Monotypic plasma cell identification & risk stratification panel,93357-2
+Anaplasma phagocytophilum & Ehrlichia chaffeensis Ab.IgG & IgM panel,93370-5
+HTLV I & II Ab.IgG panel,93744-1
+Creatinine panel,93736-7
+Epstein Barr virus Ab panel,93711-0
+Francisella tularensis Ab.IgG & IgM panel,93715-1
+Porphyrin fractions panel,93707-8
+Palmitoyl protein thioesterase 1 & Tripeptidyl peptidase 1 panel,93704-5
+Palmitoyl protein thioesterase 1 & Tripeptidyl peptidase 1 panel,93703-7
+Ethyl sulfate & Ethyl glucuronide panel,93705-2
+Rickettsia rickettsii & Coxiella burnetii phase 1 & Coxiella burnetii phase 2 Ab.IgG panel,93511-4
+Nonalcoholic steatohepatitis & fibrosis panel,93691-4
+ABO & Rh group post transfusion reaction panel,93923-1
+Rh antigens & K Ag post transfusion reaction panel,93922-3
+ABO & Rh group panel,93916-5
+Rh antigens & K Ag panel,93915-7
+Rh antigens & K Ag panel,93951-2
+ABO & Rh group panel,93949-6
+Rh antigens & K Ag panel,93947-0
+ABO & Rh group during infancy panel,93941-3
+Rh antigens & K Ag during infancy panel,93939-7
+ABO & Rh group post hematopoietic stem cell transplant panel,93933-0
+Rh antigens & K Ag post hematopoietic stem cell transplant panel,93929-8
+Blood group antigens panel,93914-0
+Chikungunya virus Ab.IgM & IgG panel,93976-9
+Ceramide panel,93883-7
+Carbohydrate challenge panel,93989-2
+Toxoplasma gondii Ab.IgG panel,93858-9
+Person-Centered Primary Care Measure,94066-8
+Water deprivation challenge panel,94129-4
+Color Me Healthy - children's symptom assessment app panel,94067-6
+Transfusion reaction panel,93904-1
+Gas & CO & electrolytes panel,93685-6
+Mycobacterium tuberculosis complex resistance panel,94053-6
+HEDIS 2020 Value Sets,94137-7
+Dermatan sulfate & heparan sulfate & keratan sulfate panel,93726-8
+Herpes Simplex Virus 1 & 2 DNA Panel,93440-6
+Busulfan area under the curve panel,93478-6
+Mumps virus RNA & N gene panel,93750-8
+Gram negative bacterial resistance panel,93698-9
+Benzodiazepines panel,94117-9
+PROMIS parent proxy item bank - mobility - version 1.0,94161-7
+PROMIS parent proxy item bank - pain interference - version 1.0,94162-5
+PROMIS parent proxy - global health 7 - version 1.0,94165-8
+PROMIS parent proxy short form - mobility 8 - version 1.0,94166-6
+PROMIS parent proxy short form - pain interference 8 - version 1.0,94180-7
+Borrelia sp panel,94253-2
+PROMIS pediatric - global health 7 - version 1.0,94257-3
+PROMIS parent proxy short form - physical function - upper extremity 8 - version 1.0,94169-0
+CD11a & CD11b & CD18 phenotyping panel,94266-4
+SARS coronavirus 2 RNA panel,94306-8
+PhenX - ethnicity protocol 010502,94158-3
+PhenX - age of initiation of first cigarette use - adult protocol 030703,94157-5
+PROMIS parent proxy item bank - pain behavior - version 1.0,91204-8
+PhenX - human papillomavirus vaccine use protocol 100802,94327-4
+Patient Health Questionnaire 8 item,94329-0
+OxyCODONE & metabolites panel,94304-3
+OxyMORphone & Noroxymorphone panel,94305-0
+Pregnenolone & 17-Hydroxypregnenolone panel,94303-5
+"Sulfocysteine, Hypoxanthine, Xanthine, Urate & Creatinine panel",94397-7
+Respiratory pathogens DNA & RNA panel,94393-6
+Myelopathy autoimmune Ab panel,94353-0
+Myelopathy autoimmune Ab panel,94339-9
+Desmoglein 1 & Desmoglein 3 Ab.IgG panel,94335-7
+Microsporidia sp 18S rRNA gene panel,94332-4
+PhenX - Use of creatine growth hormone and steroids protocol 230801,94451-2
+HLA-A & B & C (class I) Ab.IgG panel,94446-2
+HLA-DP & DQ & DR (class II) Ab.IgG panel,94440-5
+HLA class I & II Ab.IgG panel,94428-0
+SARS coronavirus 2 Ab panel,94503-0
+SARS coronavirus 2 Ab panel,94504-8
+Respiratory viral pathogens DNA & RNA panel,94499-1
+F2 gene.c.20210G>A & F5 gene.c.1691G>A panel,94469-4
+SARS coronavirus 2 RNA panel,94531-1
+Porphyrin fractions panel,94548-5
+Dermatan sulfate & heparan sulfate & keratan sulfate panel,94586-5
+Identifier & Assigning authority panel,94655-8
+Known exposure panel,94654-1
+Delayed hypersensitivity anergy panel,94667-3
+Calcidiol+ercalcidiol/24r-Hydroxycalcidiol+24r-Hydroxyercalcidiol ratio panel,94674-9
+Multiplex allergen panel,94593-1
+Dermatan sulfate & heparan sulfate & chondroitin-6-sulfate & keratan sulfate panel,94691-3
+Axonal autoimmune Ab panel,94695-4
+Dementia autoimmune Ab panel,94696-2
+Encephalopathy autoimmune Ab panel,94697-0
+Epilepsy autoimmune Ab panel,94698-8
+Liver diseases autoimmune Ab panel,94700-2
+Movement disorder autoimmune Ab panel,94701-0
+Dementia autoimmune Ab panel,94707-7
+Encephalopathy autoimmune Ab panel,94708-5
+Epilepsy autoimmune Ab panel,94709-3
+Movement disorder autoimmune Ab panel,94712-7
+Functional assessment standardized items (FASI) - version 1.0,94848-9
+Catecholamines supine and standing panel,95056-8
+Coagulation factor VIII activity & inhibitor panel,95121-0
+Insulin post fasting and meal stimulation panel,95110-3
+Glucose post fasting and meal stimulation panel,95102-0
+Glucagon post fasting and meal stimulation panel,95091-5
+C peptide post fasting and meal stimulation panel,95080-8
+Paraneoplastic Ab panel,94818-2
+Cytomegalovirus DNA panel,95136-8
+Parvovirus B19 DNA panel,95137-6
+Epstein Barr virus DNA panel,95138-4
+Varicella zoster virus DNA panel,95139-2
+Herpes simplex virus 1 & 2 DNA panel,95140-0
+Hepatitis A virus Ab.IgM panel,95142-6
+Clostridioides difficile toxin & BI-NAP1-027 strain DNA panel,95183-0
+Hepatitis D virus Ab panel,95141-8
+Hepatitis D virus RNA panel,95144-2
+Hepatitis B virus core Ab panel,95145-9
+Hepatitis B virus core Ab.IgM panel,95146-7
+Hepatitis B virus DNA panel,95147-5
+Hepatitis B virus surface Ag & little e Ab & Ag panel,95148-3
+Hepatitis B virus surface Ag panel,95149-1
+Complete blood count W Differential panel,95215-0
+Cytomegalovirus T-cell immunodeficiency panel,95184-8
+Hepatitis C virus Ab panel,95206-9
+Hepatitis D virus Ab.IgM panel,95239-0
+Hepatitis E virus RNA panel,95207-7
+U.S. Household Food Security Survey,95246-5
+U.S. Adult Food Security Survey,95353-9
+Lensmeter panel,95318-2
+Keratometry panel,95298-6
+Pretransplant assessment of mortality score panel,95356-2
+Rabbit hemorrhagic disease virus RNA panel,95358-8
+U.S. Household Food Security Survey - Six-Item Short Form,95361-2
+Influenza virus A & Influenza virus B & SARS coronavirus 2 & SARS-related coronavirus RNA panel,95380-2
+Glycerol & Glycerol-corrected triglyceride panel,94859-6
+Transthyretin-associated familial amyloidosis panel,94864-6
+Platelet & HLA glycoprotein antibody panel,95270-5
+West Nile virus Ab.IgG & IgM panel,94854-7
+West Nile virus Ab.IgG & IgM panel,94853-9
+Safe Environment for Every Kid parent questionnaire - revised,95403-2
+Tyrosinemia newborn screening follow-up & therapeutic monitoring panel,94573-3
+Celiac disease serology panel,94494-2
+Celiac disease IgA & HLA typing & serology panel,94493-4
+HLA-DQA1 & HLA-DQB1 typing panel,94492-6
+Hemoglobin HPLC & electrophoresis panel,94538-6
+Hemoglobin panel,94537-8
+Hepatitis B virus surface Ab panel,95205-1
+Pancreatic exocrine function panel,95362-0
+Vitamin B6 & metabolites panel,95266-3
+Cholesterol & triglyceride panel,94872-9
+Lipid & glucose panel,95126-9
+Cortisol.free post corticotropin stimulation panel,94873-7
+Aldosterone & sodium panel,94871-1
+Herpes simplex virus 1 & 2 & Varicella zoster virus DNA panel,94585-7
+Herpes simplex virus 1 & 2 DNA panel,94583-2
+Herpes simplex virus 1 & 2 DNA panel,94580-8
+Heavy metals panel,94575-8
+Heavy metals panel,94574-1
+Protoporphyrin fractions panel,94490-0
+Branched chain amino acid panel,94571-7
+Maple syrup urine disease therapy monitoring panel,94566-7
+Lysosomal storage disorders panel,94489-2
+Hepatitis A virus Ab.IgM & total panel,94539-4
+Mycobacterial identification panel,94541-0
+Mycobacterial stain & culture panel,94540-2
+Carbamazepine hypersensitivity genotype panel,94855-4
+Connective tissue autoimmune Ab.IgG panel,95267-1
+Assay related variables panel,95405-7
+Wound size panel,72287-6
+Influenza virus A & Influenza virus B & SARS coronavirus 2 RNA panel,95422-2
+NIDA-Modified ASSIST version 2.0,95513-8
+Angiotensin II & angiotensin (1-7) panel,95515-3
+HIV 1 & 2 Ab panel,95523-7
+Chromium & cobalt panel,95525-2
+NIDA Quick Screen,95528-6
+Human papilloma virus high-risk genotypes panel,95532-8
+"Hurts, insults, threatens, and screams",95619-3
+"Neonatal pain, agitation, & sedation scale panel",95620-1
+Adrenal cancer risk assessment & urine steroid fractions panel,95556-7
+Opioids panel,95796-9
+Immunoglobulin light chains.free & immunofixation panel,95801-7
+Cholesterol & triglyceride & chylomicrons panel,95808-2
+SARS coronavirus 2 RNA panel,95826-4
+Hematopoietic progenitor cell product characterization panel,95830-6
+T cell product characterization panel,95828-0
+Cell count & Differential panel,95846-2
+Somatotropin post macimorelin stimulation panel,95851-2
+BRIEF health literacy screening tool,95866-0
+Brief cognitive assessment tool short form,95872-8
+Brief anxiety and depression scale,95875-1
+Fungal pathogens panel,95919-7
+Fungal pathogens panel,95918-9
+Pulmonary vasodilator test panel,95930-4
+Influenza virus A & Influenza virus B & SARS coronavirus 2 & Respiratory syncytial virus RNA panel,95941-1
+Skindex mini,96034-4
+Skindex-29,95996-5
+Skindex-16,95975-9
+"Wound, ischemia, and foot infection classification system panel",96036-9
+Influenza virus A & Influenza virus B & SARS coronavirus+SARS coronavirus 2 Ag panel,95942-9
+HEDIS Measurement Year 2020 Value Sets,96068-2
+SARS coronavirus 2 & SARS-related coronavirus RNA panel,96094-8
+Bed category panel,92203-9
+University of Texas diabetic wound classification system panel,96106-0
+SARS coronavirus 2 Ab panel,96118-5
+Arsenic fractions panel,96253-0
+Saint Louis encephalitis virus Ab.IgG & IgM panel,96255-5
+Saint Louis encephalitis virus Ab.IgG & IgM panel,96254-8
+WE CARE Survey,96447-8
+LACE index panel,96569-9
+U.S. Child Food Security Survey,96576-4
+Retinol & Alpha tocopherol panel,96600-2
+"Methadone & 2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine panel",96602-8
+Pattern electroretinography panel,96246-4
+Multifocal electroretinography panel,96227-4
+La Crosse virus Ab.IgG & IgM panel,96499-9
+La Crosse virus Ab.IgG & IgM panel,96498-1
+Hepatocellular carcinoma risk panel,96452-8
+Alpha-1-Fetoprotein & Alpha-1-Fetoprotein.L3 panel,96451-0
+Pancreatic polypeptide sham feeding panel,96414-8
+DOCK8 expression panel,96415-5
+Clot formation.kaolin induced panel,96690-3
+Clot formation.glass bead induced panel,96689-5
+Clot formation.diatomaceous earth+clay induced panel,96688-7
+Clot formation.diatomaceous earth induced panel,96687-9
+Clot formation & Platelet function.glass bead induced panel,96686-1
+Clot formation & Platelet function.glass bead induced post heparin neutralization panel,96685-3
+HLA-A & B & C (class I) typing panel,96614-3
+HLA-A & B & C (class I) typing panel,96615-0
+HLA-A & B & C (class I) typing panel,96628-3
+HLA-A & B & C (class I) typing panel,96629-1
+HLA-DP & DQ & DR (class II) typing panel,96637-4
+HLA-DP & DQ & DR (class II) typing panel,96638-2
+HLA-DP & DQ & DR (class II) typing panel,96639-0
+HLA-DP & DQ & DR (class II) typing panel,96640-8
+HIV 1 & 2 RNA panel,96557-4
+Hyperoxaluria panel,96500-4
+Indoor respiratory allergen Ab.IgE panel,96185-4
+Dermatology autoimmune Ab panel,96186-2
+B & T cell crossmatch panel,96046-8
+T-cell naive & memory & activated subsets panel,96493-2
+MyMemCheck assessment panel,96700-0
+Blood pressure panel,96607-7
+Chlamydia trachomatis & Neisseria gonorrhoeae & Trichomonas vaginalis DNA panel,96612-7
+Treponema pallidum & Haemophilus ducreyi & Herpes simplex virus DNA panel,96611-9
+SARS coronavirus 2 stimulated gamma interferon panel,95974-2
+Insulin XXX challenge panel,50673-3
+Retinol binding protein panel,96399-1
+Retinol binding protein panel,96401-5
+Coagulation factor II activity & inhibitor panel,96455-1
+Coagulation factor IX activity & inhibitor panel,96459-3
+Coagulation factor V activity & inhibitor panel,96458-5
+Coagulation factor VIII activity & inhibitor panel,96456-9
+Coagulation factor X activity & inhibitor panel,96457-7
+Coagulation factor XI activity & inhibitor panel,96453-6
+Renal clearance & Renal plasma flow panel,96403-1
+Association of Asian Pacific Community Health Organizations enabling services and social intervention panel,96749-7
+Barthel index panel,96762-0
+Service integration panel,96771-1
+Accountable health communities health-related social needs screening tool,96777-8
+howRwe panel,96783-6
+Cortisol & glucose & somatotropin post arginine stimulation panel,96798-4
+Cobalamins & folate panel,96805-7
+Sequential Organ Failure Assessment,96789-3
+Coronavirus racial bias scale,96831-3
+Coronavirus anxiety scale,96834-7
+"Tobacco, Alcohol, Prescription medications, and other Substance use screen",96841-2
+"Tobacco, Alcohol, Prescription medications, and other Substance use assessment",96845-3
+COVID-19 participant experience survey,96892-5
+SARS coronavirus 2 sequencing & identification panel,96894-1
+SARS coronavirus 2 RNA panel,96897-4
+Acanthamoeba sp & Naegleria fowleri & Balamuthia mandrillaris DNA panel,96910-5
+Delta aminolevulinate & porphobilinogen panel,96911-3
+Personal well-being panel,96929-5
+Person-specific outcome panel,96936-0
+Social contact panel,96939-4
+Health confidence panel,96945-1
+Social determinants of health panel,96951-9
+Noninvasive prenatal fetal aneuploidy & 22q11.2 deletion panel,96978-2
+Noninvasive prenatal fetal aneuploidy panel,96977-4
+Accountable health communities health-related social needs supplemental questions,97023-6
+Spine Tango surgery follow-up 2017,97029-3
+Finnish diabetes risk score panel,97055-8
+Medical history for preventive vaccination against COVID-19 (Coronavirus Disease 2019) - with mRNA vaccine,97065-7
+COVID-19 experiences - media use panel,97096-2
+COVID-19 experiences - coping panel,97147-3
+COVID-19 experiences - employment and school changes panel,97123-4
+Phosphatidylserine-prothrombin complex Ab.IgG & IgM panel,97026-9
+Core Outcome Measures Index for the Neck,97327-1
+Pain severity & Body site panel,97339-6
+Prion disease biomarker panel,97502-9
+Fungal Ab panel,97511-0
+Somatotropin post glucose stimulation panel,97533-4
+Gas panel,97535-9
+Gastrointestinal dysmotility autoimmune Ab panel,97557-3
+Necrotizing myopathy autoimmune Ab panel,97561-5
+Nuclear antibody panel,97564-9
+Myasthenia gravis & Lambert-Eaton syndrome autoimmune Ab panel,97566-4
+Alcohol use disorder identification test,72110-0
+Spine Tango Surgery 2017,97782-7
+Blood pressure panel,97844-5
+Name panel,97845-2
+Fungal Ab panel,97859-3
+Stay Independent panel,97874-2
+Core Outcome Measures Index for the Back,97887-4
+Sleep Panel,97890-8
+Self-care panel,97896-5
+Fatigue panel,97902-1
+Oswestry Disability Index,97908-8
+Neonatal infant pain scale panel,98008-6
+Natural killer cell cytotoxicity.IL-2 stimulated panel,98030-0
+Glial fibrillary acidic protein & Ubiquitin carboxyl-terminal hydrolase-L1 panel,97602-7
+Influenza virus types A & B & subtypes RNA panel,97733-0
+Yersinia outer protein Ab panel,97172-1
+Lymphocyte T-cell & B-cell & Natural killer subsets panel,97593-8
+Joint pathogens panel,97608-4
+Thrombin generation test panel,97915-3
+Mephobarbital & PHENobarbital panel,97183-8
+Carnitine free & total & acylcarnitine panel,97182-0
+Carbapenem resistant bacteria identification & resistance panel,97324-8
+Staphylococcus aureus identification & resistance panel,97326-3
+Amphetamines panel,97161-4
+HIV 1 Ab panel,97860-1
+HIV 2 Ab panel,97861-9
+Herpes virus 8 Ab.IgG & IgM panel,97862-7
+Parainfluenza virus 1 & 2 & 3 Ab panel,97864-3
+Chikungunya virus Ab.IgM & IgG panel,97865-0
+Yellow fever virus Ab panel,97868-4
+Zika virus Ab panel,97869-2
+Hantavirus Ab.IgG & IgM panel,97871-8
+Rabies virus Ab panel,97872-6
+Magnesium & phosphate & lactate panel,97759-5
+Influenza virus A & Influenza virus B & SARS coronavirus 2 Ag panel,97099-6
+aPTT mixing study panel,97024-4
+Patient-centered disability questionnaire,98067-2
+Natural killer & natural killer T cell subsets panel,98073-0
+Child-Pugh panel,98153-0
+SARS-CoV-2-related socioeconomic questionnaire for adults,98154-8
+Cancer pathology panel,98249-6
+Diagnostic audiology results panel,98418-7
+Rowland Universal Dementia Assessment Scale,98093-8
+Post COVID-19 functional status scale,98071-4
+Neutrophil.PMA stimulated DHR panel,98124-1
+Neutrophil.fMLP stimulated DHR panel,98123-3
+Neutrophil.fMLP & PMA stimulated DHR panel,98122-5
+Intravascular coagulation and fibrinolysis panel,98125-8
+Borrelia burgdorferi Ab.IgG & IgM panel,98207-4
+Borrelia burgdorferi Ab.IgG & IgM & total panel,98205-8
+Borrelia burgdorferi Ab.IgG & IgM bands panel,98204-1
+Legionella pneumophila Ab.IgG & IgM panel,98209-0
+Treponema pallidum Ab.IgG & IgM & bands panel,98219-9
+Reagin Ab & Treponema pallidum Ab.IgG & IgM & total panel,98214-0
+Treponema pallidum Ab.IgG & IgM & bands panel,98213-2
+Reagin Ab & Treponema pallidum Ab.IgG & IgM & total panel,98212-4
+Salmonella spp Ab panel,98211-6
+Zimnitsky urine concentration panel,98126-6
+SARS coronavirus 2 & SARS-related coronavirus RNA panel,98080-5
+CD154 expression & function panel,98239-7
+Retrograde ejaculation evaluation panel,98412-0
+Liver fibrosis score panel,98491-4
+Apolipoprotein E & beta amyloid Alzheimer's risk panel,98492-2
+Perceived Stress Survey - fixed length form - age 18+,91528-0
+Fear-Affect Survey - CAT item bank - age 18+,91529-8
+Simplified disease activity index,75843-3
+Osteoporosis Self-Assessment Tool,98146-4
+Osteoporosis Index of Risk panel,98133-2
+Osteoporosis Risk Assessment Instrument,98139-9
+Color vision panel,98495-5
+PROMIS item bank - dyspnea characteristics - version 1.0,98520-0
+PROMIS item bank - psychosocial illness impact - negative - version 1.0,98602-6
+PROMIS item bank - dyspnea airborne exposure - version 1.0,98533-3
+PROMIS item bank - dyspnea emotional response - version 1.0,98536-6
+Nerve conduction study panel,98604-2
+Electromyography panel,98716-4
+Visual acuity panel,98497-1
+Phoropter panel,98853-5
+COVID-19 comorbidity and healthcare questionnaire,98871-7
+Sensory nerve conduction panel,98696-8
+Motor nerve conduction panel,98703-2
+F-wave motor nerve conduction panel,98704-0
+Repetitive motor nerve stimulation panel,98706-5
+SARS-CoV-2-related socioeconomic questionnaire for school-age children,98872-5
+COVID-19 related household finances,98889-9
+Hemolytic anemia panel,98903-8
+Osmotic fragility panel,98904-6
+Red blood cell membrane evaluation panel,98905-3
+Hemoglobinopathy panel,98907-9
+Methemoglobin & sulfhemoglobin panel,98902-0
+Knee injury and osteoarthritis outcome score - physical function shortform panel,98915-2
+WHO Quality of life-BREF,98917-8
+Hip disability and osteoarthritis outcome score - physical function shortform panel,98945-9
+Nutritional Risk Screening 2002 panel,98967-3
+Children's Health Watch Housing Stability Vital Signs panel,98975-6
+Dysautonomia autoimmune Ab panel,99000-2
+Meningitis+Encephalitis pathogens panel,99087-9
+Leptospira sp Ab panel,99011-9
+Urinary tract pathogens panel,99012-7
+Antipsychotics drug panel,98966-5
+Outcome and assessment information set (OASIS) form - version E,99130-7
+Trajectory of foreign object at wound entry panel,99041-6
+Patient-reported outcomes with LASIK - pre-operative panel,99192-7
+Tegner activity scale panel,99283-4
+Checklist of nonverbal pain indicators panel,99287-5
+Choriogonadotropin.beta subunit heterophile Ab interference panel,99306-3
+COVID-19 health questions panel,99357-6
+Gas & electrolytes panel,99548-0
+Health Leads screening panel,99549-8
+Roland Morris Disability Questionnaire panel,99574-6
+Columbia Behavior Scale for Dementia panel,99577-9
+Lysholm Knee Scoring Scale,99583-7
+American Academy of Family Physicians Social Needs Screening Tool,99593-6
+American Academy of Family Physicians Social Needs Screening Tool - short form,99595-1
+Shared decision making panel,99417-8
+"COVID-19 Knowledge, Attitudes, and Avoidant Behaviors panel",99673-6
+Behavior change panel,99556-3
+Adherence panel,99562-1
+Acceptance of loss panel,99567-0
+Temporary pacemaker panel,99674-4
+Permanent pacemaker panel,99697-5
+Continuous renal replacement therapy panel,99707-2
+Intermittent hemodialysis panel,99737-9
+Peritoneal dialysis panel,99742-9
+Patient reported outcomes with LASIK - post-operative panel,99745-2
+Adalimumab & Adalimumab Ab panel,99781-7
+Educational impact due to COVID-19 panel,99825-2
+Functional Communication Measure - Cognition ages 6 or older panel,99788-2
+Functional Communication Measure - Multi-Modal Functional Communication panel,99828-6
+Functional Communication Measure - Spoken Language Comprehension ages 6 or older panel,99836-9
+Functional Communication Measure - Spoken Language Expression ages 6 or older panel,99844-3
+Functional Communication Measure - Swallowing panel,99852-6
+Perioperative nursing data set outcomes panel,100017-3
+Address panel,99952-4
+Telecommunication panel,99948-2
+Mainz pain staging system panel,99934-2
+Standard Dermatology Outcome Measures panel,100062-9
+Stimulants drug panel,99107-5
+Siderocytes panel,99393-1
+SARS coronavirus 2 spike & nucleocapsid protein stimulated gamma interferon panel,99771-8
+Taenia solium larva Ab bands panel,100088-4
+Trypanosoma cruzi Ab bands panel,100092-6
+Fasciola sp Ab bands panel,100112-2
+Filaria Ab.IgG & IgM panel,100105-6
+Leishmania sp Ab bands panel,100109-8
+Helicobacter pylori Ab panel,100113-0
+Toxoplasma gondii Ab bands panel,100147-8
+Chlamydia trachomatis Ab panel,100120-5
+Chlamydophila pneumoniae Ab panel,100122-1
+Chlamydophila psittaci Ab panel,100125-4
+Bordetella pertussis Ab.IgG panel,100126-2
+Campylobacter sp Ab panel,100127-0
+Cryptococcus sp Ag panel,100128-8
+Schistosoma sp Ab bands panel,100148-6
+Specular microscopy panel,100066-0
+6-oxo-piperidine-2-carboxylate & 6(R+S)-oxo-propylpiperidine-2-carboxylate panel,100149-4
+Knee Society Score pre-op panel,100159-3
+Impacts of Events Scale-Revised panel,100232-8
+Routine prenatal assessment panel,100230-2
+Five Facet Mindfulness Questionnaire panel,100280-7
+Harris Hip Score panel,100283-1
+Segmental wall motion panel,100224-5
+Knee Society Score post-op panel,100203-9
+Time period start & end panel,100302-9
+Behavioral screening elder mistreatment,100307-8
+Norwalk Community Health Center Screening Tool,100353-2
+Brief Resilience Scale panel,100360-7
+Amino Acids Urea Cycle Panel,100368-0
+Carnitine Free & Total & Acylcarnitine Panel,100428-2
+Lipopolysaccharide-responsive beige-like anchor protein deficiency panel,100429-0
+Pure tone bone conduction threshold audiometry panel,100652-7
+Pure tone air conduction threshold audiometry panel,100653-5
+Cortisol free & total panel,100662-6
+Cholesterol.in lipoprotein (little a) & Cholesterol.in LDL panel,100732-7
+traMADol & metabolites panel,100734-3
+Mannose-6-phosphate isomerase & phosphomannomutase 1 panel,100735-0
+Cell count & Differential panel,100848-1
+Gas & ammonia panel,100847-3
+Febrile antibody profile,100866-3
+Center for Epidemiologic Studies Depression Scale panel,100766-5
+User satisfaction panel,100921-6
+Privacy panel,100922-4
+Digital readiness panel,100958-8
+Digital confidence panel,100928-1
+Personal safety panel,100934-9
+Neighbor relationships panel,100940-6
+Loneliness Office of National Statistics panel,100951-3
+POLST panel,100821-8
+Enterobacteriaceae.carbapenem resistance panel,100900-0
+Yeast & Candida sp identification panel,100903-4
+Urinary tract pathogens panel,100904-2
+Enterobacteriaceae.extended spectrum beta lactamase resistance phenotype & Enterococcus species.vancomycin resistant panel,100912-5
+Staph aureus and MRSA screening panel,100913-3
+Product confidence panel,100952-1
+"Galactose-alpha-1,3-galactose panel",100751-7
+Homocysteine & Methylmalonate & 2-Methylcitrate panel,100765-7
+Protein fractions.oligoclonal bands panel,100757-4
+Legionella serogroup panel,100747-5
+Poxvirus DNA panel,100890-3
+Orthopoxvirus IgG & IgM Ab panel,100893-7
+Lipid panel,100898-6
+Bovine Tuberculosis Comparative Cervical Test panel,100968-7
+Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel,100710-3
+Influenza virus A & Influenza virus B & SARS coronavirus 2 RNA panel,100345-8
+Dengue virus Ab.IgG Panel,100962-0
+Influenza virus A & Influenza virus B & SARS coronavirus 2 RNA panel,100972-9
+"Respiratory Allergen Panel, Area 5",100997-6
+Minimum Data Set (MDS) - version 3.0 - Resident Assessment Instrument (RAI) version 1.18.11,101104-8
+Cortisol post dose insulin IV panel,100998-4
+Somatotropin post dose insulin IV panel,100999-2
+Glucose post XXX challenge panel,101132-9
+Monocyte subsets panel,101146-9
+Ustekinumab & Ustekinumab Ab panel,101144-4
+Chlamydia trachomatis & Neisseria gonorrhoeae & Trichomonas vaginalis rRNA panel,101172-5
+Bioterrorism agent panel,101359-8
+Borrelia burgdorferi Ab.IgG & IgM with reflex to immunoassay panel,101352-3
+Anaplasma phagocytophilum & Babesia microti & Ehrlichia chaffeensis Ab.IgG panel,101409-1
+Pediatric autoimmune central nervous system disorders evaluation panel,101417-4
+Pediatric autoimmune central nervous system disorders evaluation panel,101416-6
+Tapentadol & Nortapentadol panel,101401-8
+Phenylalanine & Tyrosine panel,101402-6
+CHAMPS pediatric fall risk assessment,101438-0
+Alpha globin gene deletion panel,101471-1
+Semen & urine analysis fertility panel,101569-2
+Gas & electrolytes panel,101473-7
+Electrolytes panel,101565-0
+Thyroglobulin & Thyroglobulin Ab panel,101568-4
+Cortisol & Cortisone panel,101319-2
+Cortisol & 17-Hydroxyprogesterone post corticotropin stimulation panel,101316-8
+17-Hydroxypregnenolone & 17-Hydroxyprogesterone post corticotropin stimulation panel,101314-3
+Glucose post arginine stimulation panel,101308-5
+Somatotropin post insulin stimulation panel,101310-1
+Lymphocyte T-cell & B-cell & Natural killer subsets panel,100987-7
+Hantavirus Ab.IgG panel,101209-5
+Hantavirus Ab.IgM panel,101214-5
+Pharyngeal pathogens DNA & RNA panel,101285-5
+Acute febrile illness global pathogens panel,101344-0
+Monkeypox virus & Orthopoxvirus.non-variola DNA panel,101398-6
+Contactin-associated protein 1 Ab.IgG & Neurofascin155 Ab.IgG4 panel,101447-1
+Mitochondrial metabolites panel,101455-4
+Phosphatidylethanol panel,101506-4
+Schmid fall risk assessment,101549-4
+Cortisol & Cortisone panel,101315-0
+17-Hydroxyprogesterone post corticotropin stimulation panel,101313-5
+Lymphocyte TCR alpha beta double negative subsets panel,101414-1
+Blastomyces sp & Blastomyces dermatitidis Ag panel,101415-8
+C peptide post XXX challenge panel,101410-9
+"Metanephrine, Normetanephrine, 3-Methoxytyramine panel",101400-0
+Palmitoyl protein thioesterase & Tripeptidyl peptidase I panel,101348-1
+B-cell CD19 & CD20 subsets panel,100994-3
+Bacterial versus viral etiology indicator panel,101542-9
+Bacterial susceptibility panel,101505-6
+Adenovirus DNA & Human Metapneumovirus & Rhinovirus RNA panel,101474-5
+Monkeypox virus sequencing panel,101002-4
+Blood group antigens panel,100990-1
+Clinical record panel,100971-1
+Cardiovascular risk panel,101642-7
+Thyroglobulin heterophile Ab interference panel,101626-0
+Hypoglycemia evaluation panel,101629-4
+Protein electrophoresis & monoclonal protein isotype panel,101665-8
+Protein electrophoresis & monoclonal protein isotype panel,101668-2
+Leukotriene E4 Panel,101681-5
+Chlamydia trachomatis rRNA & Neisseria gonorrhoeae rRNA & Trichomonas vaginalis RNA & Candida sp RNA panel,101696-3
+Clostridium tetani toxoid and corynebacterium diphtheriae Ab panel,101791-2
+Malabsorption Evaluation Panel,101803-5
+Human papilloma virus cytology and high-risk genotypes panel,101822-5
+Synthetic glucocorticoid panel,101828-2
+Gas and electrolytes point of care panel,101866-2
+Iohexol disappearance panel,101919-9
+Eculizumab Monitoring Panel,101922-3
+Ravulizumab Monitoring Panel,101923-1
+Supersaturation panel,101929-8
+Crystals panel,101930-6
+Neonatal infant pain scale panel (NIPS),101967-8
+Platelet function panel,101790-4
+"Cortisol, glucose and somatotropin post glucagon stimulation panel",101977-7
+Glucose and somatotropin post glucagon stimulation panel,101978-5
+"Glucose, somatotropin and cortisol post insulin administration",101980-1
+Cortisol post arginine stimulation panel,101979-3
+Malnutrition risk screening panel,101789-6
+Troponin T. cardiac 2H &6H 5th generation panel,101865-4
+Protein monoclonal panel,101909-0
+Protein monoclonal panel 24Hr,101910-8
+SARS coronavirus 2 RNA,101721-9
+Prenatal hepatitis B & C panel,101653-4
+"Neonatal ABO, Rh & DAT panel",101654-2
+Neonatal ABORh & Ab antibody panel,101680-7
+Neonate blood type & indirect antibody screen panel,101679-9
+Post traumatic stress disorder checklist - civilian version DSM-5,101697-1
+The Primary Care PTSD Screen for DSM-5,102010-6
+External Steroid panel,103204-4
+ACTH heterophile Ab interference panel,102008-0
+Follitropin & lutropin post leuprolide stimulation panel,101905-8
+SARS coronavirus 2 RNA,103202-8
+Systemic lupus Ab panel,103139-2
+HLA-DQA1 SSO panel,102096-5
+Gastrin secretin stimulation XXX challenge panel,102087-4
+Torch Ab.IgG panel,102088-2
+Alpha-1-Antitrypsin Proteotype panel,102082-5
+Arginine Stimulation XXX Challenge Panel,102083-3
+CNS demyelinating disease panel,102085-8
+Hereditary sensory + autonomic neuropathy type 1 panel,102049-4
+Sphingolipid panel,102057-7
+Skeletal muscle channelopathy multigene panel,102119-5
+Natural cannabinoids panel,102114-6
+Lung cancer panel,102042-9
+Somatotropin & glucose post glucose stimulation panel,101652-6
+Rhabdomyolysis & Metabolic myopathy multigene panel,102118-7
+Chimeric antigen receptor T-cell therapy panel,102078-3
+GIST multigene mutation panel,102117-9
+ESR1 gene mutation panel,102116-1
+(Dog dander+Cat epithelium+Horse dander) Ab.IgE panel,102115-3
+Histoplasma capsulatum+Blastomyces dermatitidis Ag panel,101587-4
+Steroid drug screening panel,103148-3
+Acute myeloid leukemia panel,102103-9
+Vitamin B3 & metabolites panel,102102-1
+Carbapenemase enzyme panel,101672-4
+Lactate & pyruvate panel,101656-7
+Basic metabolic & hematocrit panel,101655-9
+Ehrlichiosis & Anaplasmosis & Babesiosis & Borrelia miyamotoi DNA panel,101647-6
+Urinalysis macroscopic panel,24355-0
+Bone marrow transplant chimerism panel,103152-5
+Minimum Data Set (MDS) - version 3.0 - Resident Assessment Instrument (RAI) version 1.19.1,103563-3
+Dog dander Ab.IgE panel,103574-0
+Cat epithelium Ab.IgE panel,103575-7
+Pain assessment in advanced dementia,103780-3
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - Planned Discharge - version 5.1,103946-0
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - Unplanned Discharge - version 5.1,103947-8
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - Expired - version 5.1,103948-6
+Long-Term Care Hospital (LTCH) Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) - Admission - version 5.1,103949-4
+CMS - Inpatient Rehabilitation Facility - Patient Assessment Instrument - version 4.2,103991-6
+Lupus anticoagulant aPTT screening panel,103620-1
+Tick-borne Ab panel,103603-7
+Fungal Pathogens Panel,103690-4
+Infliximab and Infliximab Ab Panel,103791-0
+Hendrich II fall risk,104028-6
+Trust in Science and Scientist Inventory,104006-2
+Mucopolysaccharidosis enzymes panel,104072-4
+Multiple sulfatase deficiency enzymes panel,104073-2
+Gas & Lactate panel,104074-0
+Gas & Lactate panel,104075-7
+Bile acid malabsorption panel,104027-8
+Basic metabolic & hemoglobin & hematocrit panel,104076-5
+Children and work family balance panel,104084-9
+Mental Health Household Members panel,104104-5
+Unmet Healthcare Needs panel,104040-1
+Lifestyle Factors panel,104052-6
+Prevention Orchestra Project panel,104120-1
+Diagnostic multisection transesophageal & cardioversion panel,104210-0
+Immunoglobulins and heavy-light chain panel,104266-2
+Mucopolysaccharidosis type II newborn screening panel,104188-8
+Newborn screening test results panel,57794-0
+Guanidinoacetate methyltransferase (GAMT) deficiency newborn screening panel,104191-2
+HLA-DPB1+DPA1 Typing panel,104224-1
+HLA-DPB1+DPA1 Typing panel,104225-8
+Dementia evaluation panel,104134-2
+HLA-ABDR typing panel,102092-4
+HLA-ABDR typing panel,102093-2
+PhenX - job insecurity protocol 280301,104559-0
+PhenX - housing instability due to affordability 281201,104560-8
+Phenx - Occupational prestige protocol 270501,104570-7
+Mephobarbital & PHENobarbital panel,104555-8
+Medication strength presentation information,104825-5
+Bacterial resistance panel,104991-5
+Dimethylacetal panel,104687-9
+Methylphenidate & Alpha-Phenyl-2-Piperidine acetate panel,104676-2
+Egg White IgE Panel,104689-5
+Ovarian malignancy (ROMA) panel,104551-7
+Methadone Confirmatory panel,104626-7
+Metanephrine & Normetanephrine & Total metanephrines panel,104632-5
+Diabetes mellitus type 1 autoimmune panel,104673-9
+"Measles, mumps, rubella and varicella-zoster virus Ab.IgG panel",104688-7
+Tubular reabsorption of phosphorus panel,104884-2
+Poxvirus DNA panel,104661-4
+Sialate free and total panel,104657-2
+Lysosomal storage disorders screen panel,105125-9
+"Creatine, guanidinoacetate & creatinine panel",104537-6
+Histoplasma capsulatum+Blastomyces dermatitidis Ag panel,105123-4
+Functional assessment standardized items (FASI) - v1.1,105175-4
+Risankizumab Ab panel,105194-5
+Fentanyl & Norfentanyl panel,105202-6
+Ramsay sedation scale,105042-6
+PhenX - family history of incarceration protocol 281001,105258-8
+Immunoglobulin light chains.free panel,104533-5
+Monocyte and dendritic cell panel,104547-5
+Clonazepam and 7-aminoclonazepam panel,104541-8
+"Cobalamin, Methionine & Methylmalonic Acid Pathways Panel",104535-0
+Egg Comprehensive panel,104536-8
+Dengue virus Ab.IgG & IgM & NS1 Ag panel,104595-4
+Phenytoin & Phenobarbital panel,104596-2
+Intercellular substance & basement membrane Ab.IgA panel,104828-9
+Intercellular substance & basement membrane Ab.IgG panel,104835-4
+Aminoacylase-1 deficiency panel,104695-2
+PhenX - air quality index protocol 290101,105371-9
+Paraneoplastic vision loss evaluation panel,104992-3
+Glucose dumping syndrome panel,104873-5
+PhenX - healthcare communications protocol 281101,105485-7
+PhenX - health numeracy protocol 280201,105506-0
+PhenX - lipid profile protocol 40201,105519-3
+Anemia Evaluation Panel,105456-8
+Lysophosphatidylcholines panel,105457-6
+Copper panel,105459-2
+Lysosomal and peroxisomal storage disorders panel,105458-4
+PhenX - food swamp protocol 290501,104563-2
+PhenX - C reactive protein (CRP) protocol 660601,105848-6
+PhenX - environmental justice protocol 290401,105578-9
+Rheumatoid Factor IgM and IgA antibody panel,106053-2
+Primary biliary cholangitis comprehensive Ab panel,106054-0
+SP100 and GP210 Ab.IgG panel,106055-7
+Beta-Amyloid 1-42 and 1-40 panel,106057-3
+Enteric parasite panel,106059-9
+Hepatitis B and C virus Ab panel,106060-7
+Chlamydia trachomatis & Neisseria gonorrhoeae & Trichomonas vaginalis rRNA panel,106058-1
+Enteric bacteria panel,106061-5
+Enteric pathogen panel,106062-3
+Lactose challenge panel-methane,105750-4
+Lactose challenge panel-hydrogen,105751-2
+NICHQ Vanderbilt Assessment Scale - Parent Informant,106345-2
+Performing laboratory panel,106205-8
+Batch panel,106204-1
+Neutrophil Ab screen panel,105285-1
+Herpes simplex virus 1 & 2 & Varicella zoster virus & Treponema pallidum DNA panel,104651-5
+Information panel,104976-6
+Communication capability information panel,104956-8
